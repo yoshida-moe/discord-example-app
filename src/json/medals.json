@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "name": "攻撃力アップ",
+      "e01": 0.01,
+      "e02": 0.02,
+      "e03": 0.03,
+      "path": "../img/medals/MedalIcon001.png"
+    },
+    {
+      "name": "防御力アップ",
+      "e01": 0.01,
+      "e02": 0.02,
+      "e03": 0.03,
+      "path": "../img/medals/MedalIcon002.png"
+    },
+    {
+      "name": "体力アップ",
+      "e01": 0.01,
+      "e02": 0.02,
+      "e03": 0.03,
+      "path": "../img/medals/MedalIcon003.png"
+    },
+    {
+      "name": "移動速度アップ",
+      "e01": 0.01,
+      "e02": 0.02,
+      "e03": 0.03,
+      "path": "../img/medals/MedalIcon004.png"
+    },
+    {
+      "name": "クールタイム短縮",
+      "e01": 0.02,
+      "e02": 0.03,
+      "e03": 0.04,
+      "path": "../img/medals/MedalIcon005.png"
+    },
+    {
+      "name": "ヒーロースキルゲージ増加量アップ",
+      "e01": 0.02,
+      "e02": 0.03,
+      "e03": 0.04,
+      "path": "../img/medals/MedalIcon006.png"
+    },
+    {
+      "name": "拠点確保速度アップ",
+      "e01": 0.02,
+      "e02": 0.04,
+      "e03": 0.06,
+      "path": "../img/medals/MedalIcon007.png"
+    },
+    {
+      "name": "火属性耐性アップ",
+      "e01": 0.03,
+      "e02": 0.05,
+      "e03": 0.07,
+      "path": "../img/medals/MedalIcon008.png"
+    },
+    {
+      "name": "水属性耐性アップ",
+      "e01": 0.03,
+      "e02": 0.05,
+      "e03": 0.07,
+      "path": "../img/medals/MedalIcon009.png"
+    },
+    {
+      "name": "木属性耐性アップ",
+      "e01": 0.03,
+      "e02": 0.05,
+      "e03": 0.07,
+      "path": "../img/medals/MedalIcon010.png"
+    },
+    {
+      "name": "スタン耐性アップ",
+      "e01": 0.02,
+      "e02": 0.05,
+      "e03": 0.08,
+      "path": "../img/medals/MedalIcon011.png"
+    },
+    {
+      "name": "サイレント耐性アップ",
+      "e01": 0.04,
+      "e02": 0.08,
+      "e03": 0.12,
+      "path": "../img/medals/MedalIcon012.png"
+    },
+    {
+      "name": "ポイズン耐性アップ",
+      "e01": 0.04,
+      "e02": 0.08,
+      "e03": 0.12,
+      "path": "../img/medals/MedalIcon013.png"
+    }
+  ]
+}

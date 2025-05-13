@@ -1,0 +1,155 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=350,user-scalable=no">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="robots" content="noindex,nofollow">
+<title>カード</title>
+<link id="css1" rel="stylesheet" type="text/css"
+      href="./web/css/css_main.css" media="all" />
+<script src="game.js"></script>
+<nav class="nav-menu">
+  <ul class="menu">
+    <li class="nav">
+      <a href="home.html">ホーム
+    <li class="nav">
+      <a href="char.html">ヒーロー
+    <li class="nav">
+      <a href="card.html">カード
+    <li class="nav">
+      <a href="gacha.html">ガチャ
+  </ul>
+</nav>
+<div id="contents-area" class="contents-area wrapper">
+  <div class="contents-area__filter">
+    <div id="caret" class="caret" onclick="onClickCaretIcon()">▼</div>
+    <div id="filter-button" class="contents-area__filter-button">
+      <label for="attribute">属性</label>
+      <div id="attribute">
+        <input type="radio" id="a00" name="attribute" value="" checked>
+        <label for="a00">全</label>
+        <input type="radio" id="a01" name="attribute" value="火">
+        <label for="a01">火</label>
+        <input type="radio" id="a02" name="attribute" value="水">
+        <label for="a02">水</label>
+        <input type="radio" id="a03" name="attribute" value="木">
+        <label for="a03">木</label>
+        <input type="radio" id="a04" name="attribute" value="無">
+        <label for="a04">無</label>
+      </div>
+      <label for="rarity">レアリティ</label>
+      <div id="rarity">
+        <input type="radio" id="r00" name="rarity" value="" checked>
+        <label for="r00">全</label>
+        <input type="radio" id="r01" name="rarity" value="UR">
+        <label for="r01">UR</label>
+        <input type="radio" id="r02" name="rarity" value="SR">
+        <label for="r02">SR</label>
+        <input type="radio" id="r03" name="rarity" value="R">
+        <label for="r03">R</label>
+        <input type="radio" id="r04" name="rarity" value="N">
+        <label for="r04">N</label>
+      </div>
+      <label for="skill">スキル</label>
+      <div id="skill">
+        <input type="radio" id="s00" name="skill" value="" checked>
+        <label for="s00">全</label>
+        <input type="radio" id="s01" name="skill" value="近">
+        <label for="s01">近</label>
+        <input type="radio" id="s02" name="skill" value="遠">
+        <label for="s02">遠</label>
+        <input type="radio" id="s03" name="skill" value="連">
+        <label for="s03">連</label>
+        <input type="radio" id="s04" name="skill" value="周">
+        <label for="s04">周</label>
+        <input type="radio" id="s05" name="skill" value="癒">
+        <label for="s05">癒</label>
+        <input type="radio" id="s06" name="skill" value="防">
+        <label for="s06">防</label>
+        <input type="radio" id="s07" name="skill" value="強">
+        <label for="s07">強</label>
+        <input type="radio" id="s08" name="skill" value="弱">
+        <label for="s08">弱</label>
+        <input type="radio" id="s09" name="skill" value="移">
+        <label for="s09">移</label>
+        <input type="radio" id="s10" name="skill" value="罠">
+        <label for="s10">罠</label>
+        <input type="radio" id="s11" name="skill" value="閃">
+        <label for="s11">閃</label>
+        <input type="radio" id="s12" name="skill" value="害">
+        <label for="s12">害</label>
+        <input type="radio" id="s13" name="skill" value="除">
+        <label for="s13">除</label>
+        <input type="radio" id="s14" name="skill" value="返">
+        <label for="s14">返</label>
+        <input type="radio" id="s15" name="skill" value="貫">
+        <label for="s15">貫</label>
+        <input type="radio" id="s16" name="skill" value="引">
+        <label for="s16">引</label>
+        <input type="radio" id="s17" name="skill" value="吸">
+        <label for="s17">吸</label>
+        <input type="radio" id="s18" name="skill" value="毒">
+        <label for="s18">毒</label>
+        <input type="radio" id="s19" name="skill" value="止">
+        <label for="s19">止</label>
+        <input type="radio" id="s20" name="skill" value="破">
+        <label for="s20">破</label>
+      </div>
+      <label for="type">種類</label>
+      <div id="type">
+        <input type="radio" id="t00" name="type" value="" checked>
+        <label for="t00">全</label>
+        <input type="radio" id="t01" name="type" value="通常">
+        <label for="t01">通常</label>
+        <input type="radio" id="t02" name="type" value="コラボ">
+        <label for="t02">コラボ</label>
+        <input type="radio" id="t03" name="type" value="シーズン">
+        <label for="t03">シーズン</label>
+        <input type="radio" id="t04" name="type" value="イベント">
+        <label for="t04">イベント</label>
+      </div>
+      <div id="fileName">
+        <input type="radio" id="f0140" name="fileName" value="0140">
+        <label for="fileName">ギルギア</label>
+        <input type="radio" id="f0180" name="fileName" value="0180">
+        <label for="fileName">初音ミク</label>
+        <input type="radio" id="f0220" name="fileName" value="0220">
+        <label for="fileName">ストⅤ</label>
+        <input type="radio" id="f0290" name="fileName" value="0290">
+        <label for="fileName">Re:ゼロ</label>
+        <input type="radio" id="f0350" name="fileName" value="0350">
+        <label for="fileName">リンレン</label>
+        <input type="radio" id="f0370" name="fileName" value="0370">
+        <label for="fileName">殺天</label>
+        <input type="radio" id="f0400" name="fileName" value="0400">
+        <label for="fileName">ダンロン</label>
+        <input type="radio" id="f0410" name="fileName" value="0410">
+        <label for="fileName">このすば</label>
+        <input type="radio" id="f0450" name="fileName" value="0450">
+        <label for="fileName">進撃</label>
+        <input type="radio" id="f0470" name="fileName" value="0470">
+        <label for="fileName">猫宮</label>
+        <input type="radio" id="f0490" name="fileName" value="0490">
+        <label for="fileName">シュタゲ</label>
+        <input type="radio" id="f0500" name="fileName" value="0500">
+        <label for="fileName">Fate</label>
+        <input type="radio" id="f0540" name="fileName" value="0540">
+        <label for="fileName">歌舞伎</label>
+        <input type="radio" id="f0590" name="fileName" value="0590">
+        <label for="fileName">文スト</label>
+        <input type="radio" id="f0630" name="fileName" value="0630">
+        <label for="fileName">ライザ</label>
+        <input type="radio" id="f0730" name="fileName" value="0730">
+        <label for="fileName">NieR</label>
+        <input type="radio" id="f0830" name="fileName" value="0830">
+        <label for="fileName">ロックマン</label>
+        <input type="radio" id="f0930" name="fileName" value="0930">
+        <label for="fileName">メイアビ</label>
+      </div>
+    </div>
+  </div>
+  <ul id="list" class="nav-list">
+  </ul>
+</div>

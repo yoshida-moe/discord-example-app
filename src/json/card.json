@@ -1,0 +1,6926 @@
+{
+  "items": [
+    {
+      "name": "エナジー缶 500ml",
+      "attr": "水",
+      "rarity": "N",
+      "word": [
+        "移",
+        "帰"
+      ],
+      "type": "通常",
+      "skill": "ライフ60%回復で スタート位置に戻る",
+      "coolDown": 20,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/card_en01.png"
+    },
+    {
+      "name": "エナジー缶 1000ml",
+      "attr": "水",
+      "rarity": "R",
+      "word": [
+        "移",
+        "帰"
+      ],
+      "type": "通常",
+      "skill": "ライフ60%回復で スタート位置に戻る",
+      "coolDown": 20,
+      "activation": "短",
+      "rank": "D",
+      "path": "../img/card/card_en02.png"
+    },
+    {
+      "name": "エナジー缶 4000ml",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "移",
+        "帰"
+      ],
+      "type": "通常",
+      "skill": "ライフ60%回復で スタート位置に戻る",
+      "coolDown": 20,
+      "activation": "短",
+      "rank": "B",
+      "path": "../img/card/card_en03.png"
+    },
+    {
+      "name": "エナジー缶 100000ml",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "移",
+        "帰"
+      ],
+      "type": "通常",
+      "skill": "ライフ60%回復で スタート位置に戻る",
+      "coolDown": 20,
+      "activation": "短",
+      "rank": "S",
+      "path": "../img/card/card_en04.png"
+    },
+    {
+      "name": "はらぺこゴースト",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0040_001.png"
+    },
+    {
+      "name": "はらぺこ吸血バット",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0040_002.png"
+    },
+    {
+      "name": "はらぺこメイジ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0040_003.png"
+    },
+    {
+      "name": "究極系ノーガード戦法",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを 80%減らす (8秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0040_004.png"
+    },
+    {
+      "name": "ゲームバズーカ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0040_005.png"
+    },
+    {
+      "name": "一撃必殺 ブラストアッパー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0040_006.png"
+    },
+    {
+      "name": "オールレンジアタック",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "貫"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵に 防御力無視の攻撃\n(中ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0040_007.png"
+    },
+    {
+      "name": "とある家庭用メカの反乱",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "貫"
+      ],
+      "type": "通常",
+      "skill": "連打攻撃で 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0040_008.png"
+    },
+    {
+      "name": "連合宇宙軍 スタンビームライフル",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0050_001.png"
+    },
+    {
+      "name": "連合宇宙軍 ステルス迷彩",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0050_002.png"
+    },
+    {
+      "name": "連合宇宙軍 ジャスティスハンマー",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0050_003.png"
+    },
+    {
+      "name": "連合宇宙軍 フルアーマー機動兵",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0050_004.png"
+    },
+    {
+      "name": "連合宇宙軍 広域電磁波ジャマー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0050_005.png"
+    },
+    {
+      "name": "連合宇宙軍 強襲制圧型 装甲多脚戦車",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "押"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵を 遠くに弾き飛ばす",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0050_006.png"
+    },
+    {
+      "name": "連合宇宙軍 シールドブレイカー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "弱",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "敵チームの防御力を 20秒間 大ダウン",
+      "coolDown": 35,
+      "activation": "短",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0050_007.png"
+    },
+    {
+      "name": "連合宇宙軍 サテライトキャノン",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周"
+      ],
+      "type": "通常",
+      "skill": "全周囲に 強力な攻撃 (大ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0050_008.png"
+    },
+    {
+      "name": "ドリーム☆ステッキ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0060_001.png"
+    },
+    {
+      "name": "ドリーム☆アンブレラ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0060_002.png"
+    },
+    {
+      "name": "ドリーム☆ミーティア",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0060_003.png"
+    },
+    {
+      "name": "魔法少女☆ルルカ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0060_004.png"
+    },
+    {
+      "name": "魔法少女☆ララカ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0060_005.png"
+    },
+    {
+      "name": "運命の女神 エボリューション☆リリカ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "黙"
+      ],
+      "type": "通常",
+      "skill": "遠くの敵を 10秒間サイレントにする",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0060_006.png"
+    },
+    {
+      "name": "ドリーム☆マジカルスクエア",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "弱"
+      ],
+      "type": "通常",
+      "skill": "前方敵の全行動速度を 4秒間 大ダウン",
+      "coolDown": 47,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0060_007.png"
+    },
+    {
+      "name": "全員集合！魔法少女リリカ☆ルルカ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "奪"
+      ],
+      "type": "通常",
+      "skill": "遠くの敵のヒーロースキルバワーを 25%奪う",
+      "coolDown": 27,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0060_008.png"
+    },
+    {
+      "name": "血塗れチェーンソウ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0070_001.png"
+    },
+    {
+      "name": "保健室の救急セット",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0070_002.png"
+    },
+    {
+      "name": "剣道部エースの五月雨突き",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0070_003.png"
+    },
+    {
+      "name": "化学部の放課後ジッケンタイム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0070_004.png"
+    },
+    {
+      "name": "呪詛包帯",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0070_005.png"
+    },
+    {
+      "name": "名門サッカー部 イナズマシュート",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0070_006.png"
+    },
+    {
+      "name": "学園の王者 生徒会執行部",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "連"
+      ],
+      "type": "通常",
+      "skill": "前方に 強力な連続攻撃 (大ダメージ)",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0070_007.png"
+    },
+    {
+      "name": "深淵より湧き上がるシャドウ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "毒"
+      ],
+      "type": "通常",
+      "skill": "遠くの敵を10秒間ポイズン\n(最大ライフ45%ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0070_008.png"
+    },
+    {
+      "name": "凶天浄血 モートルラート",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0080_001.png"
+    },
+    {
+      "name": "無限軍旅 ケルパーズ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0080_002.png"
+    },
+    {
+      "name": "爆術死鬼 ツクモ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0080_003.png"
+    },
+    {
+      "name": "千血妖刀 牛鬼村正",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0080_004.png"
+    },
+    {
+      "name": "操宴軍馬 ベディーネン・パンツァー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0080_005.png"
+    },
+    {
+      "name": "帝皇機神 ケーニヒ・イェーガー",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを 50%減らす (10秒間)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0080_006.png"
+    },
+    {
+      "name": "全翼飛将 グライフ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0080_007.png"
+    },
+    {
+      "name": "妖炎参謀 月夜叉",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "味方チーム全員のライフを 40%回復",
+      "coolDown": 27,
+      "activation": "短",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0080_008.png"
+    },
+    {
+      "name": "機航師弾 フルーク・ツォイク",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近"
+      ],
+      "type": "通常",
+      "skill": "前方に 強力な攻撃 (大ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0080_009.png"
+    },
+    {
+      "name": "妖軍一統 ゲネラール",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周"
+      ],
+      "type": "通常",
+      "skill": "全周囲に 強力な攻撃 (中ダメージ)",
+      "coolDown": 14,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0080_010.png"
+    },
+    {
+      "name": "聖女の近衛 デュノワ伯",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0090_001.png"
+    },
+    {
+      "name": "聖女の秘宝 ペルセウスの足具",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0090_002.png"
+    },
+    {
+      "name": "聖女の親友 修道女マリー",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0090_003.png"
+    },
+    {
+      "name": "聖女の守り手 黒猫リリィ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0090_004.png"
+    },
+    {
+      "name": "聖女の前衛 ジル・ド・レ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0090_005.png"
+    },
+    {
+      "name": "聖女の後衛 銃士レオン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0090_006.png"
+    },
+    {
+      "name": "地獄の番犬 ケルベロス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0090_007.png"
+    },
+    {
+      "name": "魂を司る聖天使 ガブリエル",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "通常",
+      "skill": "ライフを100%回復",
+      "coolDown": 28,
+      "activation": "短",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0090_008.png"
+    },
+    {
+      "name": "革命の旗",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "奪"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵のヒーロースキルパワーを\n30%奪う",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0090_009.png"
+    },
+    {
+      "name": "初級魔法 ふれいむ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0100_001.png"
+    },
+    {
+      "name": "初級魔法 ぶりざーど",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0100_002.png"
+    },
+    {
+      "name": "きょうせんしの大剣",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0100_003.png"
+    },
+    {
+      "name": "ひめたる力の覚醒",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0100_004.png"
+    },
+    {
+      "name": "聖槍ろんぎぬす",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0100_005.png"
+    },
+    {
+      "name": "あこがれのアイドルからの声援",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0100_006.png"
+    },
+    {
+      "name": "ぶじゅつかの超速加速",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "強"
+      ],
+      "type": "通常",
+      "skill": "自分の移動速度を 22秒間 大アップ",
+      "coolDown": 40,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0100_007.png"
+    },
+    {
+      "name": "どこにでもいけるドア",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "移",
+        "鍵"
+      ],
+      "type": "通常",
+      "skill": "前方にあるポータルキーに 瞬間移動",
+      "coolDown": 100,
+      "activation": "長",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0100_008.png"
+    },
+    {
+      "name": "荒れ狂う天空王 ぶれいずどらごん",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "貫"
+      ],
+      "type": "通常",
+      "skill": "前方の敵に 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 21,
+      "activation": "無",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0100_009.png"
+    },
+    {
+      "name": "武器商人 エンフィールド",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0110_001.png"
+    },
+    {
+      "name": "悪徳警官 トミー",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0110_002.png"
+    },
+    {
+      "name": "銀行強盗 デリンジャー",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0110_003.png"
+    },
+    {
+      "name": "爆弾魔 バルカン",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0110_004.png"
+    },
+    {
+      "name": "切り裂き魔 ジャック",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0110_005.png"
+    },
+    {
+      "name": "放火魔 スコーピオン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0110_006.png"
+    },
+    {
+      "name": "看守長 キャバルリー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0110_007.png"
+    },
+    {
+      "name": "迅雷の科学者 アバカン",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "止"
+      ],
+      "type": "通常",
+      "skill": "遠くの敵を 4秒間スタンにする",
+      "coolDown": 36,
+      "activation": "短",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0110_008.png"
+    },
+    {
+      "name": "背に負いし亡き妻の加護",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "防",
+        "吸"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを ライフに変換する (3秒間)",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "警備ロボ Guardoll-4771",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0120_001.png"
+    },
+    {
+      "name": "液体金属ロボ Metadoll-774",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0120_002.png"
+    },
+    {
+      "name": "反政府勢力クラッキング Case-171",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0120_003.png"
+    },
+    {
+      "name": "焼却ロボ Fladoll-4649",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0120_004.png"
+    },
+    {
+      "name": "電撃ロボ Eledoll-115",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0120_005.png"
+    },
+    {
+      "name": "対消滅ロングレンジライフル Hum-Buster",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "遠"
+      ],
+      "type": "通常",
+      "skill": "長射程の強力な攻撃 (中ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0120_006.png"
+    },
+    {
+      "name": "銀河防衛ロボ Unidoll-2525",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "味方チーム全員のライフを 60%回復",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0120_007.png"
+    },
+    {
+      "name": "恒星間転送装置 Tele-Pass",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "移",
+        "敵"
+      ],
+      "type": "通常",
+      "skill": "一番近くの敵の背後に瞬間移動",
+      "coolDown": 70,
+      "activation": "長",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0120_008.png"
+    },
+    {
+      "name": "全天首都防壁 Hum-Sphere LLIK",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを 100%減らす (6秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0120_009.png"
+    },
+    {
+      "name": "モノリス Hum-Unknown",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "罠",
+        "鍵"
+      ],
+      "type": "通常",
+      "skill": "制圧済ポータルキーを\nダミーで守る(7秒間)",
+      "coolDown": 80,
+      "activation": "長",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0120_010.png"
+    },
+    {
+      "name": "祭りのお供！手持ち花火",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0130_001.png"
+    },
+    {
+      "name": "祭りの土産！手作り爆竹",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0130_002.png"
+    },
+    {
+      "name": "祭りの終わり！満天提灯",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0130_003.png"
+    },
+    {
+      "name": "祭りの思い出！おじいちゃんの祝砲",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0130_004.png"
+    },
+    {
+      "name": "祭り行列！山車燈籠",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0130_005.png"
+    },
+    {
+      "name": "祭りの華！だんじりガール",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0130_006.png"
+    },
+    {
+      "name": "祭り開始！どでかい和太鼓",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0130_007.png"
+    },
+    {
+      "name": "祭りの真打ち！打ち上げ花火",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "ライフを持続回復\n(10秒間で最大120%)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0130_008.png"
+    },
+    {
+      "name": "祭りの目玉！ドラゴン花火",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "罠",
+        "爆"
+      ],
+      "type": "通常",
+      "skill": "敵に大ダメージを与える\n罠を設置(20秒間)",
+      "coolDown": 30,
+      "activation": "長",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0130_009.png"
+    },
+    {
+      "name": "祭りの粋！オトコの手筒花火",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "閃"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵のヒーローの視界を 8秒間奪う",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0130_010.png"
+    },
+    {
+      "name": "ジャンクヤード・ドッグ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "強"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_001.png"
+    },
+    {
+      "name": "ファイヤーホイール Mk.Ⅱ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "強"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_002.png"
+    },
+    {
+      "name": "よく喧嘩相手になってくれました",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "遠"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_003.png"
+    },
+    {
+      "name": "よく話し相手になってくれました",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "連"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_004.png"
+    },
+    {
+      "name": "カイ=キスク",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "近",
+        "止"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_005.png"
+    },
+    {
+      "name": "シン=キスク",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "近",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_006.png"
+    },
+    {
+      "name": "エンフェルト=ヴァレンタイン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "弱"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_007.png"
+    },
+    {
+      "name": "ラムレザル=ヴァレンタイン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "弱"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_008.png"
+    },
+    {
+      "name": "ジャック・オー",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 50%減らす (10秒間)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_009.png"
+    },
+    {
+      "name": "メイ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "周",
+        "押"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_010.png"
+    },
+    {
+      "name": "蔵士緑紗夢 (くらどべり じゃむ)",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "連"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_011.png"
+    },
+    {
+      "name": "【刺激的絶命拳】ファウスト",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "近",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_012.png"
+    },
+    {
+      "name": "【ライジング・フォース】カイ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "遠",
+        "止"
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を 4秒間スタンにする",
+      "coolDown": 36,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_013.png"
+    },
+    {
+      "name": "【ライディーン】シン",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な攻撃 (大ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_014.png"
+    },
+    {
+      "name": "【マグナムウェディング】エルフェルト",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "前方攻撃+ダメージの150%ライフ吸収\n(中ダメージ)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_015.png"
+    },
+    {
+      "name": "【アニモエスティンギ】ラムレザル",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "連"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な連続攻撃 (大ダメージ)",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_016.png"
+    },
+    {
+      "name": "【アイウォントアウト】ジャック・オー",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "毒"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を20秒間ポイズン (最大ライフ50%ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_017.png"
+    },
+    {
+      "name": "【アイアンメイデン】ミリア",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "黙"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を 12秒間サイレントにする",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_018.png"
+    },
+    {
+      "name": "【我羨惚(がせんこつ)】紗夢(じゃむ)",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "貫"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 21,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_019.png"
+    },
+    {
+      "name": "ギアメーカー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを100%回復",
+      "coolDown": 28,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0140_020.png"
+    },
+    {
+      "name": "死献薬 シュタルク・トート",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0160_001.png"
+    },
+    {
+      "name": "拷問館 パウ・ライヒェ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0160_002.png"
+    },
+    {
+      "name": "神技官 アンジュ・ソレイユ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0160_003.png"
+    },
+    {
+      "name": "反導砲 カノーネ・ファイエル",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0160_004.png"
+    },
+    {
+      "name": "独災者 アングリフ・ギフト",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0160_005.png"
+    },
+    {
+      "name": "崩愛の爆弾 ジ・エラー",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0170_001.png"
+    },
+    {
+      "name": "情愛の四女 クララ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0170_002.png"
+    },
+    {
+      "name": "奏愛の三女 エレオノーラ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0170_003.png"
+    },
+    {
+      "name": "狂愛の次女 ヴァルヴァラ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0170_004.png"
+    },
+    {
+      "name": "忘愛の長女 アレクサンドラ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0170_005.png"
+    },
+    {
+      "id": "0180",
+      "name": "【スカイウォーカー】初音 ミク",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "強",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "味方チームの移動速度を 15秒間 中アップ",
+      "coolDown": 55,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_001.png"
+    },
+    {
+      "id": "0180",
+      "name": "【ピースメーカー】初値 ミク",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 30%減らす (20秒間)",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_002.png"
+    },
+    {
+      "id": "0180",
+      "name": "【チャームスピーカー】初音 ミク",
+      "attr": "",
+      "rarity": "SR",
+      "word": [
+        "遠",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_003.png"
+    },
+    {
+      "id": "0180",
+      "name": "【空掛ける歌姫】初音 ミク",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "味方チームの移動速度を 15秒間\n大アップ",
+      "coolDown": 70,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_004.png"
+    },
+    {
+      "id": "0180",
+      "name": "【号令する歌姫】初音 ミク",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "止"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を 5秒間スタンにする",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_005.png"
+    },
+    {
+      "id": "0180",
+      "name": "【祝福する歌姫】初音 ミク",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "続",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "味方チーム全員のライフを持続回復\n(10秒間で最大70%)",
+      "coolDown": 50,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0180_006.png"
+    },
+    {
+      "name": "楽団譜 パルティシオン",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0190_001.png"
+    },
+    {
+      "name": "楽団員 サンバール",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0190_002.png"
+    },
+    {
+      "name": "楽団員 アルプ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0190_003.png"
+    },
+    {
+      "name": "楽団姫 ディーバ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを 100%減らす (3秒間)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0190_004.png"
+    },
+    {
+      "name": "楽団長 ドルケストル",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0190_005.png"
+    },
+    {
+      "name": "たんじょうび ぷれぜんと",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0200_001.png"
+    },
+    {
+      "name": "かぞく みんなで おしゃしん",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0200_002.png"
+    },
+    {
+      "name": "おにいちゃん ぎゅーってして",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0200_003.png"
+    },
+    {
+      "name": "おとうさん あそんであそんでー",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "弱",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "敵チームの攻撃力を 4秒間 極大ダウン",
+      "coolDown": 37,
+      "activation": "短",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0200_004.png"
+    },
+    {
+      "name": "おかあさん だーいすき",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "弱"
+      ],
+      "type": "通常",
+      "skill": "前方的の防御力を 12秒間 極大ダウン",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0200_005.png"
+    },
+    {
+      "name": "紅薔薇の聖王剣 セルピエンテ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0210_001.png"
+    },
+    {
+      "name": "紅薔薇の生命線 パレンティア",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0210_002.png"
+    },
+    {
+      "name": "紅薔薇の不壊盾 イノセンテ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0210_003.png"
+    },
+    {
+      "name": "紅薔薇の副団長 アミスター",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "害",
+        "鍵",
+        "止"
+      ],
+      "type": "通常",
+      "skill": "前方にあるポータルキー周囲の敵を\n4秒間スタンにする",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0210_004.png"
+    },
+    {
+      "name": "紅薔薇の暗殺術 クルエルダー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "引"
+      ],
+      "type": "通常",
+      "skill": "遠くの敵を 引き寄せる",
+      "coolDown": 42,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0210_005.png"
+    },
+    {
+      "name": "ハッカドール 1号",
+      "attr": "",
+      "rarity": "R",
+      "word": [
+        "強"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "ハッカドール 2号",
+      "attr": "",
+      "rarity": "R",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "ハッカドール 3号",
+      "attr": "",
+      "rarity": "R",
+      "word": [
+        "近"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "ハッカドール 三人集合",
+      "attr": "",
+      "rarity": "R",
+      "word": [
+        "移",
+        "帰"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "F.A.N.G",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_001.png"
+    },
+    {
+      "name": "M.バイソン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_002.png"
+    },
+    {
+      "name": "バルログ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_003.png"
+    },
+    {
+      "name": "ダルシム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_004.png"
+    },
+    {
+      "name": "【ラッシュ&ブレイズ】ケン",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "連"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な連続攻撃 (大ダメージ)",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_005.png"
+    },
+    {
+      "name": "【魂屠る闇】ネカリ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "黙"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵を 13秒間サイレントにする",
+      "coolDown": 16,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_006.png"
+    },
+    {
+      "name": "【拳を極めし者】豪鬼",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "貫"
+      ],
+      "type": "コラボ",
+      "skill": "連打攻撃で 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_007.png"
+    },
+    {
+      "name": "【最終最凶】ベガ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵のヒーロースキルバワーを\n40%奪う",
+      "coolDown": 38,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0220_008.png"
+    },
+    {
+      "name": "-蒼王宮- 第一魔剣 ザヴァイヴァーニィ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0240_001.png"
+    },
+    {
+      "name": "-蒼王宮- 翠光騎士 リョーフキー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0240_002.png"
+    },
+    {
+      "name": "-蒼王宮- 白翼騎士 ジェニト",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0240_003.png"
+    },
+    {
+      "name": "-蒼王宮- 恩寵天使 ソーン=ユーリエフ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "ライフ100%回復スタート位置帰還+\n自分の移動速度を 12秒間 大アップ",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0240_004.png"
+    },
+    {
+      "name": "-蒼王宮-氷冠女王イデア=N=ユランブルク",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "除",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "敵チームの カードのバフ効果+\nライフ持続回復効果を打ち消す",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0240_005.png"
+    },
+    {
+      "name": "THE REFLECTION　エクスオン",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "THE REFLECTION　アイガイ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "THE REFLECTION　エレノア",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "THE REFLECTION　ナイスワンダー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "ソル=バッドガイ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0270_001.png"
+    },
+    {
+      "name": "ディズィー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0270_002.png"
+    },
+    {
+      "name": "【我竜点晴】梅喧(ばいけん)",
+      "attr": "火",
+      "rarity": "UR",
+      "word": "",
+      "type": "コラボ",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n近距離敵にカウンター攻撃(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0270_003.png"
+    },
+    {
+      "name": "【口寄せ・大型神陣】アンサー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": "設置",
+      "type": "コラボ",
+      "skill": "敵に大ダメージを与える\n罠を設置(20秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0270_004.png"
+    },
+    {
+      "name": "スバル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_001.png"
+    },
+    {
+      "name": "ラム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_002.png"
+    },
+    {
+      "name": "ベアトリス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_003.png"
+    },
+    {
+      "name": "フェリス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_004.png"
+    },
+    {
+      "name": "【リゼロ】ゼロから始まる異世界生活",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを100%回復",
+      "coolDown": 28,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_005.png"
+    },
+    {
+      "name": "【リゼロ】絶望という病",
+      "attr": "近距離",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に ガードブレイク攻撃\n(ブレイク成功で大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_006.png"
+    },
+    {
+      "name": "【リゼロ】ひとときの団欒",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "強"
+      ],
+      "type": "コラボ",
+      "skill": "自分の防御力を 8秒間 極大アップ",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_007.png"
+    },
+    {
+      "name": "【リゼロ】間断なき結束",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "貫"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵に 防御力無視の攻撃\n(中ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0290_008.png"
+    },
+    {
+      "name": "【BEATLESS】レイシア",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【BEATLESS】スノウドロップ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【BEATLESS】メトーデ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【BEATLESS】レイシアと遠藤アラト",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "アイちゃんのオススメ防弾パーカー",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0330_001.png"
+    },
+    {
+      "name": "ゼルっちの横流しフルオートライフル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0330_002.png"
+    },
+    {
+      "name": "ミナ&ルナ&レナのバーゲンセール戦争",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "返"
+      ],
+      "type": "通常",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n近距離敵にカウンター攻撃(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0330_003.png"
+    },
+    {
+      "name": "チーちゃんのウワキオシオキ狙撃",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "奪"
+      ],
+      "type": "通常",
+      "skill": "遠方攻撃+ダメージの150%ライフ吸収\n(中ダメージ)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0330_004.png"
+    },
+    {
+      "name": "ガルガルのピカピカデコ戦車",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "害",
+        "鍵",
+        "押"
+      ],
+      "type": "通常",
+      "skill": "前方にあるポータルキー周囲の敵を\n遠くに弾き飛ばす",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0330_005.png"
+    },
+    {
+      "name": "翼霊の加護 クワリ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0340_001.png"
+    },
+    {
+      "name": "雨霊の加護 ウィネバ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0340_002.png"
+    },
+    {
+      "name": "樹霊の加護 イシュティニケ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0340_003.png"
+    },
+    {
+      "name": "創霊の加護 タイオワ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "全"
+      ],
+      "type": "通常",
+      "skill": "味方チームの攻撃力を 9秒間\n極大アップ",
+      "coolDown": 65,
+      "activation": "短",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0340_004.png"
+    },
+    {
+      "name": "雷霊の加護 ワキンヤン",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "止"
+      ],
+      "type": "通常",
+      "skill": "前方の敵を 4秒間スタンにする",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0340_005.png"
+    },
+    {
+      "name": "【ハッピーシンガー】鏡音 リン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0350_001.png"
+    },
+    {
+      "name": "【パワフルプレイヤー】鏡音 レン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0350_002.png"
+    },
+    {
+      "name": "【熱狂する双演】鏡音リン&鏡音レン",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "周囲攻撃+ダメージの400%ライフ吸収\n(大ダメージ)",
+      "coolDown": 24,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0350_003.png"
+    },
+    {
+      "name": "【夢越える共演】初音ミク&鏡音リンレン",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "鍵",
+        "続"
+      ],
+      "type": "コラボ",
+      "skill": "前方にあるポータルキー周囲に\n持続回復エリア展開(12秒)",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0350_004.png"
+    },
+    {
+      "name": "アイザック・フォスター",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0370_001.png"
+    },
+    {
+      "name": "レイチェル・ガードナー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0370_002.png"
+    },
+    {
+      "name": "ピザック",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【愉悦の一閃】アイザック",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な攻撃 (大ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0370_004.png"
+    },
+    {
+      "name": "【ルナティック・アイズ】レイチェル",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "弱",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "敵チームの防御力を 20秒間 大ダウン",
+      "coolDown": 35,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0370_005.png"
+    },
+    {
+      "name": "【イカれた約束】ザック&レイ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 80%減らす (8秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0370_006.png"
+    },
+    {
+      "name": "レーザー特注忍具 -双天小烏丸-",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0380_001.png"
+    },
+    {
+      "name": "デジタル堅牢忍具 -不可視金蔵-",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "通常",
+      "skill": "被ダメージを 30%減らす (20秒間)",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0380_002.png"
+    },
+    {
+      "name": "オンエア部下忍者 -アニマルチューバーズ-",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0380_003.png"
+    },
+    {
+      "name": "ハイカラ盟友忍者 -壬生咲みみみ-",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "通常",
+      "skill": "ライフを 30%回復",
+      "coolDown": 12,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0380_004.png"
+    },
+    {
+      "name": "ライバル狂刃忍者 -幽々院ゆらら-",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "貫"
+      ],
+      "type": "通常",
+      "skill": "連打攻撃で 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0380_005.png"
+    },
+    {
+      "name": "*支配ノ美*　エレンホス",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0390_001.png"
+    },
+    {
+      "name": "*振付ノ美*　オルケーシス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0390_002.png"
+    },
+    {
+      "name": "*伝説ノ美*　プロティバラリナ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0390_003.png"
+    },
+    {
+      "name": "*絢爛ノ美*　ボラ＆アルヒコ＆アペイロン",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "止"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵を 5秒間スタンにする",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0390_004.png"
+    },
+    {
+      "name": "*真実ノ美*　ジョバンニ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "返",
+        "移",
+        "敵"
+      ],
+      "type": "通常",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n背後移動＆カウンター攻撃(大ダメージ)",
+      "coolDown": 25,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0390_005.png"
+    },
+    {
+      "name": "日向 創",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_001.png"
+    },
+    {
+      "name": "田中 眼蛇夢",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_002.png"
+    },
+    {
+      "name": "江ノ島 盾子",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_003.png"
+    },
+    {
+      "name": "【超高校級の希望】苗木 誠",
+      "attr": "敵チームの カードのバフ効果+",
+      "rarity": "UR",
+      "word": [
+        "除",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "敵チームの カードのバフ効果+\nライフ持続回復効果を打ち消す",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_004.png"
+    },
+    {
+      "name": "【超高校級の幸運】狛枝 凪斗",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵に ガードブレイク攻撃\n(ブレイク成功で大ダメージ)",
+      "coolDown": 34,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_005.png"
+    },
+    {
+      "name": "【超高校級のゲーマー】七海 千秋",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "続",
+        "全"
+      ],
+      "type": "コラボ",
+      "skill": "味方チーム全員のライフを持続回復\n(10秒間で最大70%)",
+      "coolDown": 50,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0400_006.png"
+    },
+    {
+      "name": "カズマ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_001.png"
+    },
+    {
+      "name": "ダクネス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_002.png"
+    },
+    {
+      "name": "ウィズ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_003.png"
+    },
+    {
+      "name": "ゆんゆん",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_004.png"
+    },
+    {
+      "name": "【爆裂アークウィザード】めぐみん",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に ガードブレイク攻撃\n(ブレイク成功で大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_005.png"
+    },
+    {
+      "name": "【慈愛の貧乏リッチー】ウィズ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "貫"
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵に 防御力無視の攻撃\n(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_006.png"
+    },
+    {
+      "name": "【駄女神's】アクア&めぐみん&ダクネス",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 100%減らす (3秒間)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_007.png"
+    },
+    {
+      "name": "【風呂上がりの休息】アクア&めぐみん",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "続"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを持続回復\n(10秒間で最大120%)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0410_008.png"
+    },
+    {
+      "name": "-蒼王宮- 魔導死書 チェーニ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0430_001.png"
+    },
+    {
+      "name": "-蒼王宮- 監獄騎士 ヴィーセリツァ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0430_002.png"
+    },
+    {
+      "name": "-蒼王宮- 黒滅導師 アカンティラド",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0430_003.png"
+    },
+    {
+      "name": "-蒼王宮- 終焉禁獣 グラナート",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "破"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵に ガードブレイク攻撃\n(ブレイク成功で大ダメージ)",
+      "coolDown": 34,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0430_004.png"
+    },
+    {
+      "name": "-蒼王宮- 聖歌連隊 ミローディア",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "鍵",
+        "続"
+      ],
+      "type": "通常",
+      "skill": "前方にあるポータルキー周囲に\n持続回復エリア展開(12秒)",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0430_005.png"
+    },
+    {
+      "name": "【デルミン】オニギリクママン",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0440_001.png"
+    },
+    {
+      "name": "【デルミン】デビルミント島",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0440_002.png"
+    },
+    {
+      "name": "【デルミン】エンジェリック.A.破虎",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0440_003.png"
+    },
+    {
+      "name": "【デルミン】デビルミント鬼龍パパミン",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "毒"
+      ],
+      "type": "通常",
+      "skill": "周囲の敵を10秒間ポイズン\n(最大ライフ30%ダメージ)",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0440_004.png"
+    },
+    {
+      "name": "【デルミン】デビルミント始龍",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "奪"
+      ],
+      "type": "通常",
+      "skill": "前方攻撃+ダメージの200%ライフ吸収\n(大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0440_005.png"
+    },
+    {
+      "name": "【進撃の巨人】エレン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_001.png"
+    },
+    {
+      "name": "【進撃の巨人】ミカサ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_002.png"
+    },
+    {
+      "name": "【進撃の巨人】アルミン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_003.png"
+    },
+    {
+      "name": "【進撃の巨人】小さな刃",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [
+        "連",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "連続攻撃+ダメージの150%ライフ吸収\n(大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_004.png"
+    },
+    {
+      "name": "【進撃の巨人】超大型巨人襲来",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "黙"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を 12秒間サイレントにする",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_005.png"
+    },
+    {
+      "name": "【進撃の巨人】娘々ストレッチ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 30%回復",
+      "coolDown": 12,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0450_006.png"
+    },
+    {
+      "name": "【ニヒヒ対人地雷】猫宮ひなた",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_001.png"
+    },
+    {
+      "name": "【ぶっぱ短機関銃】猫宮ひなた",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_002.png"
+    },
+    {
+      "name": "【パルクール2丁拳銃】猫宮ひなた",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_003.png"
+    },
+    {
+      "name": "【最高にハイ!!!エナドリ】猫宮ひなた",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "続"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを持続回復\n(20秒間で最大100%)",
+      "coolDown": 40,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_004.png"
+    },
+    {
+      "name": "【ワンショットワンキル】猫宮ひなた",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠"
+      ],
+      "type": "コラボ",
+      "skill": "超射程の強力な攻撃(中ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_005.png"
+    },
+    {
+      "name": "【火遊びフラッシュバン】猫宮ひなた",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "罠",
+        "閃"
+      ],
+      "type": "コラボ",
+      "skill": "敵の視界を6秒間奪う 罠を設置(20秒間)",
+      "coolDown": 22,
+      "activation": "長",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0470_006.png"
+    },
+    {
+      "name": "#夜光犯罪特区 #天馬エイワズ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": "../img/card/ui_game_deck_card_0480_001.png"
+    },
+    {
+      "name": "#夜光犯罪特区 #やめるちゃんアゲ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0480_002.png"
+    },
+    {
+      "name": "#夜光犯罪特区 #メビウス目撃情報",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0480_003.png"
+    },
+    {
+      "name": "#夜光犯罪特区 #きてるちゃんライヴ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "人",
+        "止"
+      ],
+      "type": "通常",
+      "skill": "前方敵の周囲を9連続攻撃し\n2秒間スタンにする",
+      "coolDown": 50,
+      "activation": "無",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0480_004.png"
+    },
+    {
+      "name": "#夜光犯罪特区 #終夜の俺様賛美会",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "害",
+        "鍵",
+        "黙"
+      ],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0480_005.png"
+    },
+    {
+      "name": "フェイリス・ニャンニャン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_001.png"
+    },
+    {
+      "name": "橋田 至",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_002.png"
+    },
+    {
+      "name": "阿万音 鈴羽",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_003.png"
+    },
+    {
+      "name": "【STEINS;GATE】黄昏の憩い",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "味方チーム全員のライフを 60%回復",
+      "coolDown": 45,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_004.png"
+    },
+    {
+      "name": "【STEINS;GATE】未来を司る女神作戦",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に 防御力無視の攻撃\n(大ダメージ)",
+      "coolDown": 21,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_005.png"
+    },
+    {
+      "name": "【STEINS;GATE】時間跳躍の協力者",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "通常攻撃で与えたダメージの150%ライフ吸収 (25秒間)",
+      "coolDown": 40,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0490_006.png"
+    },
+    {
+      "name": "衛宮士郎",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_001.png"
+    },
+    {
+      "name": "ライダー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_002.png"
+    },
+    {
+      "name": "間桐桜 -マキリの杯-",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_003.png"
+    },
+    {
+      "name": "遠坂凛",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_004.png"
+    },
+    {
+      "name": "【Fate/stay night [HF]】舞い散る桜",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 70%回復",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_005.png"
+    },
+    {
+      "name": "【Fate/stay night [HF]】lost butterfly",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 100%減らす (6秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_006.png"
+    },
+    {
+      "name": "【Fate/stay night [HF]】狂戦士の咆哮",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "全周囲に 強力な攻撃 (中ダメージ)",
+      "coolDown": 14,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_007.png"
+    },
+    {
+      "name": "【Fate/stay night [HF]】激辛麻婆豆腐",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "弱",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方敵の全行動速度を 4秒間 大ダウン",
+      "coolDown": 47,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0500_008.png"
+    },
+    {
+      "name": "【超歌舞伎】マルコス'55",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【超歌舞伎】ニコラテスラ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【超歌舞伎】アダム=ユーリエフ",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【千本桜】鏡音鈴&鏡音錬",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_004_snbn_H8txPraG.png"
+    },
+    {
+      "name": "【超歌舞伎】青竜の精",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_005_snbn_H8txPraG.png"
+    },
+    {
+      "name": "【超歌舞伎】母と娘の絆",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_006_snbn_H8txPraG.png"
+    },
+    {
+      "name": "【千本桜】初音未来",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵のヒーロースキルバワーを\n40%奪う",
+      "coolDown": 0,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_007_snbn_H8txPraG.png"
+    },
+    {
+      "name": "【超歌舞伎】転生なしたる白虎",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 65%減らす (3秒間)",
+      "coolDown": 10,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_008_snbn_H8txPraG.png"
+    },
+    {
+      "name": "【超歌舞伎】今昔饗宴千本桜",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "味方チーム全員のライフを 80%回復",
+      "coolDown": 50,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0540_009_snbn_H8txPraG.png"
+    },
+    {
+      "name": "ベル・クラネル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "リリルカ・アーデ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "リュー・リオン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_003.png"
+    },
+    {
+      "name": "【ダンまち】眷属の物語 (ファミリア・ミィス)",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを持続回復\n(10秒間で最大120%)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_004_dnmc_L4uhxQkY.png"
+    },
+    {
+      "name": "【ダンまち】ソード・オラトリア",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "敵を連打攻撃で 引き寄せる",
+      "coolDown": 38,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_005_dnmc_L4uhxQkY.png"
+    },
+    {
+      "name": "【ダンまち】至福の一時",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 80%減らす (8秒間)",
+      "coolDown": 30,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_006_dnmc_L4uhxQkY.png"
+    },
+    {
+      "name": "【ダンまち】聖火の女神と宴",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵のライフを 50%奪う",
+      "coolDown": 21,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_007_dnmc_S3zuasrP.png"
+    },
+    {
+      "name": "【ダンまち】恥じらいの疾風",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "帯",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自身にリング展開 (9秒)\n+接触した敵を4秒間スタン",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0570_008_dnmc_S3zuasrP.png"
+    },
+    {
+      "name": "グラディオラス",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_001.png"
+    },
+    {
+      "name": "シドニー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_002.png"
+    },
+    {
+      "name": "アラネア",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_003.png"
+    },
+    {
+      "name": "【FFXV】耀かしき未来へ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自分の攻撃力を 10秒間 極大アップ\n+ 残ライフの25%を減少",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_004_ff15_R2zX8rhM.png"
+    },
+    {
+      "name": "【FFXV】彼の者の物語",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を 4秒間スタンにする",
+      "coolDown": 36,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_005_ff15_R2zX8rhM.png"
+    },
+    {
+      "name": "【FFXV】父子の絆",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "味方チーム全員のライフを 40%回復",
+      "coolDown": 27,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0580_006_ff15_R2zX8rhM.png"
+    },
+    {
+      "name": "宮沢賢治",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_001.png"
+    },
+    {
+      "name": "江戸川乱歩",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_002.png"
+    },
+    {
+      "name": "与謝野晶子",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_003.png"
+    },
+    {
+      "name": "福沢諭吉",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_004.png"
+    },
+    {
+      "name": "【文スト】武装探偵社",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を 打ち上げる 強力な攻撃 (大ダメージ)",
+      "coolDown": 27,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_005.png"
+    },
+    {
+      "name": "【文スト】ありふれた日常の幸せ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 70%回復",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_006.png"
+    },
+    {
+      "name": "【文スト】理想という病を愛す",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方攻撃+ダメージの200%ライフ吸収\n(大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_007.png"
+    },
+    {
+      "name": "【文スト】双つの黒",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "防",
+        "吸"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを ライフに変換する (6秒間)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0590_008.png"
+    },
+    {
+      "name": "レント・アルスリンク",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "パトリツィア・アーベルハイム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "セリ・グロース",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【ライザのアトリエ2】いざ、冒険の旅へ！",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "弱",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方的の防御力を 12秒間 極大ダウン",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0630_004.png"
+    },
+    {
+      "name": "【ライザのアトリエ2】夏だ！海だ！水着だ！",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵を20秒間ポイズン (最大ライフ50%ダメージ)",
+      "coolDown": 20,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0630_005.png"
+    },
+    {
+      "name": "【ライザのアトリエ2】ひと夏の思い出",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自分の防御力を 6秒間 極大アップ",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0630_006.png"
+    },
+    {
+      "name": "フォックス",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_001_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "クイーン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_002_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "ノワール",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_003_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "【ペルソナ5】TAKE YOUR HEART",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "移",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方指定範囲内にいる 敵の背後に瞬間移動",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_004_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "【ペルソナ5】運命の囚われ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを ライフに変換する (3秒間)",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_005_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "【ペルソナ5】心の怪盗団",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵に 防御力無視の攻撃\n(中ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0650_006_prsn_Y2juVKsC.png"
+    },
+    {
+      "name": "シャルティア・ブラッドフォールン",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_001_over_B7cgitwE.png"
+    },
+    {
+      "name": "セバス・チャン",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_002_over_B7cgitwE.png"
+    },
+    {
+      "name": "アウラ・ベラ・フィオーラ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_003_over_B7cgitwE.png"
+    },
+    {
+      "name": "【オーバーロード】不死者の王 アインズ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近"
+      ],
+      "type": "コラボ",
+      "skill": "前方に強力な攻撃 (極大ダメージ)\n+ 残ライフの25%を減少",
+      "coolDown": 22,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_004_over_B7cgitwE.png"
+    },
+    {
+      "name": "【オーバーロード】守護者統括 アルベド",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 30%回復",
+      "coolDown": 12,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_005_over_B7cgitwE.png"
+    },
+    {
+      "name": "【オーバーロード】英雄モモン&美姫ナーベ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "黙"
+      ],
+      "type": "コラボ",
+      "skill": "自分の攻撃+防御+移動を9秒間大アップ\n+ 自身にサイレント (9秒)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0670_006_over_B7cgitwE.png"
+    },
+    {
+      "name": "シリカ&ピナ",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_001_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "リズベット",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "強",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自分の防御力を 6秒間 大アップ",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_002_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "エギル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_003_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "ヒースクリフ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵に ガードブレイク攻撃\n(ブレイク成功で中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_004_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "【SAO】朝露の少女と",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 50%減らす (10秒間)",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_005_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "【SAO】氷の狙撃手",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を 引き寄せる",
+      "coolDown": 42,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_006_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "【SAO】妖精たちの国にて",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自分と周囲味方のライフ回復 自分50%&味方30%\n+状態異常回復",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_007_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "【SAO】旅路の果て",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "連打攻撃で 防御力無視の攻撃\n(極大ダメージ)",
+      "coolDown": 42,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0680_008_saoc_Bc2tDKyT.png"
+    },
+    {
+      "name": "ヨルハ部隊司令官",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_001_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "オペレーター 60／210",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_002_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "パスカル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_003_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "【NieR:Automata】戦いの始まり",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "返"
+      ],
+      "type": "コラボ",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n近距離敵にカウンター攻撃(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_004_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "【NieR:Automata】静寂の時",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "奪"
+      ],
+      "type": "コラボ",
+      "skill": "前方攻撃+ダメージの200%ライフ吸収\n(大ダメージ)",
+      "coolDown": 24,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_005_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "【NieR:Automata】交錯する運命",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵にガードブレイク攻撃\n(極大ダメージ) +残ライフの25%減少",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0730_006_NieR_N4wvu78N.png"
+    },
+    {
+      "name": "ヴェルドラ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_001_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "ミリム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_002_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "クレイマン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_003_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "【転スラ】転生したらスライムだった件",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを ライフに変換する (6秒間)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_004_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "【転スラ】集う者達",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "周囲攻撃+ダメージの400%ライフ吸収\n(大ダメージ)",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_005_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "【転スラ】受け継がれる想い",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を10秒間 吸血ポイズン (最大ライフ40%ダメージ&吸収)",
+      "coolDown": 30,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0750_006_sura_H5yNVX5W.png"
+    },
+    {
+      "name": "白井黒子",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_001_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "初春飾利",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_002_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "佐天涙子",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_003_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "フレンダ=セイヴェルン",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_004_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "【超電磁砲】常盤台の超電磁砲 (レールガン)",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を 4秒間スタンにする",
+      "coolDown": 45,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_005_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "【超電磁砲】超能力者 (レベル5)の第一位",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "返",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n周囲の敵にカウンター攻撃(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_006_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "【超電磁砲】とある少女たちの物語",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 70%回復",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_007_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "【超電磁砲】幻想殺し (イマジンブレイカー)",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に 防御力無視の攻撃 (極大ダメージ)",
+      "coolDown": 27,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0770_008_taru_N8zWPt5L.png"
+    },
+    {
+      "name": "ドリーム☆コンパクト",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "ドスブラック★シスコンブラザー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": ""
+    },
+    {
+      "name": "魔法少女 レレカ☆ロロカ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": ""
+    },
+    {
+      "name": "合体攻撃！ドリーム☆エンジェルズアロー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "絶夢の魔女 リベレーション★ルルカ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": ""
+    },
+    {
+      "name": "UMEEEEEE!!! ㌍千倍 カロリカルコーラ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": ""
+    },
+    {
+      "name": "UMEEEEEE!!! ㌍倍増 ピッツァハーレム",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": ""
+    },
+    {
+      "name": "UMEEEEEE!!! ㌍満載 ピッツァフルコース",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "UMEEEEEE!!! ㌍伝道 通信教育カラァーテェ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": ""
+    },
+    {
+      "name": "UMEEEEEE!!! ㌍覇王 プニャトフスキ一族",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "¦¦¦狐ヶ咲¦¦¦  黒漆祓拵 為次",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0550_001_amai_L3pyEnaJ.png"
+    },
+    {
+      "name": "¦¦¦狸ヶ原¦¦¦  偽紫 刀一郎",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0550_002_amai_L3pyEnaJ.png"
+    },
+    {
+      "name": "¦¦¦狐ヶ咲¦¦¦  四典老師 虹色",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0550_003_amai_L3pyEnaJ.png"
+    },
+    {
+      "name": "¦¦¦狐ヶ咲¦¦¦  祓三姉妹 夢色 ¦ 桃色",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0550_004_amai_L3pyEnaJ.png"
+    },
+    {
+      "name": "¦¦¦狸ヶ原¦¦¦  破戒怨士 喰色",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "",
+      "path": "../img/card/ui_game_deck_card_0550_005_amai_L3pyEnaJ.png"
+    },
+    {
+      "name": "戦士の灯/ 超圧縮荷電粒子砲 ラグナロク",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": ""
+    },
+    {
+      "name": "戦禍の灯/ フレイヤ -哀傷のドッグタグ-",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": ""
+    },
+    {
+      "name": "戦慄の灯/ AGBW-3990N ヘイムダル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": ""
+    },
+    {
+      "name": "戦略の灯/ 国防長官フレイ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": ""
+    },
+    {
+      "name": "戦陣の灯/ VDN-93 強襲揚陸艦 ユグドラシル",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "必殺！滅殺！超重力子砲 G-バズーカ",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": ""
+    },
+    {
+      "name": "熱血！猛進！配給支援部隊 Mr.ランチャー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "激旨！到着！戦場食堂車 バトルダイナー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "極悪！最低！悪人派遣会社社長 ベリバッド",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": ""
+    },
+    {
+      "name": "闘魂！注入！受け継がれし魂 ゲームバズーカ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "D",
+      "path": ""
+    },
+    {
+      "name": "不思議の一休み「トランプちゃん」",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "E",
+      "path": "../img/card/ui_game_deck_card_0640_001_newc_G3ihwp3R.png"
+    },
+    {
+      "name": "不思議の籠球部「白秋晴斗くん」",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0640_002_newc_G3ihwp3R.png"
+    },
+    {
+      "name": "不思議の美術部「玄冬淡雪＆朱夏夜雨ちゃん」",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0640_003_newc_G3ihwp3R.png"
+    },
+    {
+      "name": "不思議の王子様「白馬の晴斗くん」",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0640_004_newc_G3ihwp3R.png"
+    },
+    {
+      "name": "不思議の支配者「ハートの女王さま」",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0640_005_newc_G3ihwp3R.png"
+    },
+    {
+      "name": "蜘蛛縫組 Ж 愛してマスコット ウサ太郎",
+      "attr": "",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": ""
+    },
+    {
+      "name": "蜘蛛縫組 Ж 組本部 裁縫会合室",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "蜘蛛縫組 Ж 舎弟衆 万亀川/蛇ノ目/虎山",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": ""
+    },
+    {
+      "name": "蜘蛛縫組 Ж 三代目組長 蜘蛛縫 正太郎",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": ""
+    },
+    {
+      "name": "蜘蛛縫組 Ж 面従相談役 千切 常影",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "//*#イレギュラーウィング#*//",
+      "attr": "",
+      "rarity": "N",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0700_001_bugd_N7b5We7N.png"
+    },
+    {
+      "name": "//*#イレギュラーウィルス#*//",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0700_002_bugd_N7b5We7N.png"
+    },
+    {
+      "name": "//*#イレギュラー Errordoll-18782#*//",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0700_003_bugd_N7b5We7N.png"
+    },
+    {
+      "name": "//*#イレギュラー 戦闘摂理偽装システム#*//",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0700_004_bugd_N7b5We7N.png"
+    },
+    {
+      "name": "//*#イレギュラードールズ#*//",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0700_005_bugd_N7b5We7N.png"
+    },
+    {
+      "name": "‡焼亡の森‡静寂の宝槍 ルー",
+      "attr": "木",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "連打攻撃で敵を 4秒間サイレントにする(小ダメージ)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0720_001_stel_G9BfjE9G.png"
+    },
+    {
+      "name": "‡四大精霊‡ウンディーネ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "ライフを20%回復",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0720_002_stel_G9BfjE9G.png"
+    },
+    {
+      "name": "‡四大精霊‡シルフ",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "自分の移動速度を 24秒間 中アップ",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0720_003_stel_G9BfjE9G.png"
+    },
+    {
+      "name": "‡焼亡の森‡溺愛弟 ルー・メルク・シルワ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "連打攻撃で広範囲に 防御力無視の攻撃(大ダメージ)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0720_004_stel_G9BfjE9G.png"
+    },
+    {
+      "name": "‡焼亡の森‡奴隷狩り密売団 ケルマト",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "敵を12秒間サイレントにする 罠を設置(20秒間)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_0720_005_stel_G9BfjE9G.png"
+    },
+    {
+      "name": "‡滅国の城‡名も亡き眷属コウモリ",
+      "attr": "水",
+      "rarity": "R",
+      "word": [],
+      "type": "通常",
+      "skill": "前方の敵を10秒間 吸血ポイズン (最大ライフ30%ダメージ＆吸収)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0740_001_love_G9BfjE9G.png"
+    },
+    {
+      "name": "‡四大精霊‡サラマンダー",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "通常攻撃で与えたダメージの 90%ライフ吸収 (15秒間)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "B",
+      "path": "../img/card/ui_game_deck_card_0740_002_love_G9BfjE9G.png"
+    },
+    {
+      "name": "‡四大精霊‡ノーム",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [],
+      "type": "通常",
+      "skill": "周囲の敵を 打ち上げる 強力な攻撃 (小ダメージ)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "C",
+      "path": "../img/card/ui_game_deck_card_0740_003_love_G9BfjE9G.png"
+    },
+    {
+      "name": "‡滅国の城‡双生王 レヴィ・シュシュマルシュ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "前方の敵を10秒間 吸血ポイズン (最大ライフ50%ダメージ＆吸収)",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0740_004_love_G9BfjE9G.png"
+    },
+    {
+      "name": "‡滅国の城‡偽らざる鮮血の玉座",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "通常",
+      "skill": "周囲の敵のライフを 60%奪う",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "A",
+      "path": "../img/card/ui_game_deck_card_0740_005_love_G9BfjE9G.png"
+    },
+    {
+      "name": "ロキシーの人形",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_001_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "シルフィエット",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 80%減らす (6秒間)",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_002_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "ルイジェルド・スペルディア",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_003_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "【無職転生】夕暮れのひと時",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_004_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "【無職転生】すれ違う物語",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_005_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "【無職転生】無慈悲なる邂逅",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0820_006_msts_Df2Jhm2A.png"
+    },
+    {
+      "name": "ガッツマン.EXE & 大山デカオ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_001.png"
+    },
+    {
+      "name": "ロール.EXE & 桜井メイル",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_002_roex_A3pnCY3A.png"
+    },
+    {
+      "name": "Dr.ワイリー",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "帯",
+        "毒"
+      ],
+      "type": "コラボ",
+      "skill": "自身にリング展開 (9秒)\n+接触した敵を 10秒間ポイズン (40%ダメージ)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_003.png"
+    },
+    {
+      "name": "【ロックマンエグゼ】ショックウェーブ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "波"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な攻撃 (大ダメージ)\n+ショックウェーブ追撃 (固定ダメージ)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_004_roex_A3pnCY3A.png"
+    },
+    {
+      "name": "【ロックマンエグゼ】ダブルストリーム",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 100%減らす (6秒間)",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_005_roex_A3pnCY3A.png"
+    },
+    {
+      "name": "【ロックマンエグゼ】アースブレイカー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "周囲の敵に ガードブレイク攻撃\n(ブレイク成功で大ダメージ)",
+      "coolDown": 34,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0830_006_roex_A3pnCY3A.png"
+    },
+    {
+      "name": "サムライソード",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_001_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "岸辺",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_002_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "姫野",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_003_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "東山コベニ",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを 90%回復",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_004_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "【チェーンソーマン】マキマ",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "連打攻撃で 4秒間サイレントにする (大ダメージ)",
+      "coolDown": 38,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_005_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "【チェーンソーマン】早川アキ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵に ガードブレイク攻撃 (ブレイク成功で極大ダメージ)",
+      "coolDown": 28,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_006_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "【チェーンソーマン】公安対魔特異4課",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "ライフを持続回復\n(4秒間で最大300%)\n+状態異常回復",
+      "coolDown": 34,
+      "activation": "長",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_007_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "【チェーンソーマン】犬とチェーンソー",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "被ダメージを 70%減らす (6秒間)",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0850_008_cnsm_Q4gHc2uD.png"
+    },
+    {
+      "name": "ターニャ・デグレチャフ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_001_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "ヴィーシャ",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_002_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "メアリー",
+      "attr": "",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_003_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "【幼女戦記】ラインの悪魔",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方極大攻撃 (自身残ライフ25%減少)\n+ダメージの1000%ライフ吸収",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_004_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "【幼女戦記】反撃の狼煙",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "煙",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "前方にスモークエリア 6秒展開 (敵からのターゲット回避)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_005_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "【幼女戦記】神の恩寵",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "強",
+        "",
+        ""
+      ],
+      "type": "コラボ",
+      "skill": "自分の攻撃力を 10秒間 極大アップ\n+ 残ライフの25%を減少",
+      "coolDown": 30,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0890_006_youj_W2nPEF2W.png"
+    },
+    {
+      "name": "レグ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_001_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "リコ",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_002_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "ナナチ",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_003_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "【メイドインアビス】火葬砲",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "連",
+        "強"
+      ],
+      "type": "コラボ",
+      "skill": "前方に 強力な攻撃 (大ダメージ)\n+自分の防御力を 5秒間 極大アップ",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_004_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "【メイドインアビス】黎明卿",
+      "attr": "無",
+      "rarity": "UR",
+      "word": [
+        "遠",
+        "黙"
+      ],
+      "type": "コラボ",
+      "skill": "遠くの敵を 10秒間サイレントにする",
+      "coolDown": 18,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_005_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "【メイドインアビス】ナナチ＆ミーティ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "続",
+        "与"
+      ],
+      "type": "コラボ",
+      "skill": "ライフを持続回復(10秒間100%)\n+接触味方に回復付与(10秒間100%)",
+      "coolDown": 32,
+      "activation": "短",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0930_006_mina_g4AuHs4g.png"
+    },
+    {
+      "name": "レオリオ",
+      "attr": "火",
+      "rarity": "SR",
+      "word": [
+        "近"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_001_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "クラピカ",
+      "attr": "水",
+      "rarity": "SR",
+      "word": [
+        "癒"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_002_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "カイト",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [
+        "周",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_003_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "ネフェルピトー",
+      "attr": "木",
+      "rarity": "SR",
+      "word": [
+        "防"
+      ],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_004_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "【HUNTER×HUNTER】旅立ちと仲間たち",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "周",
+        "倒"
+      ],
+      "type": "コラボ",
+      "skill": "全周囲に ダウン付与の 強力な攻撃\n(大ダメージ)",
+      "coolDown": 27,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_005_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "【HUNTER×HUNTER】ゾルディック家",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "返"
+      ],
+      "type": "コラボ",
+      "skill": "4秒間 最初に受けた攻撃を無効化し\n周囲の敵にカウンター攻撃(中ダメージ)",
+      "coolDown": 32,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_006_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "【HUNTER×HUNTER】奇術師 ヒソカ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "人",
+        "止",
+        "前"
+      ],
+      "type": "コラボ",
+      "skill": "前方指定範囲内の敵を9連続攻撃し\n2秒間スタンにする",
+      "coolDown": 36,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_007_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "【HUNTER×HUNTER】決意の覚悟の拳",
+      "attr": "無",
+      "rarity": "UR",
+      "word": [
+        "近",
+        "破"
+      ],
+      "type": "コラボ",
+      "skill": "前方の敵にガードブレイク攻撃\n(極大ダメージ) +残ライフの25%減少",
+      "coolDown": 26,
+      "activation": "無",
+      "rank": "F",
+      "path": "../img/card/ui_game_deck_card_0940_008_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "",
+      "word": [],
+      "type": "コラボ",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "",
+      "rank": "",
+      "path": "../img/card/ui_game_deck_card_0970_001_taru_K7q2SH7K.png"
+    },
+    {
+      "name": "【オルレアンの乙女】ジャンヌダルク",
+      "attr": "水",
+      "rarity": "UR",
+      "word": "味方チームの 攻撃+防御+移動を12秒間小アップ",
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_060.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_070.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_080.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_090.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_100.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_110.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2017_120.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_010.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_020.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_030.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_040.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_050.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_060.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_070.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_080.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_090.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_100.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_110.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2018_120.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_010.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_020.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_030.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_040.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_050.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2019_060.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": ""
+    },
+    {
+      "name": "【幻影の暗殺者】ルチアーノ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "的",
+        "射"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_050_lcan_Je7V1WgX.png"
+    },
+    {
+      "name": "【妖毒同盟】桜華忠臣&グスタフ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "盟",
+        "同"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_060_pass_U7h5uPfB.png"
+    },
+    {
+      "name": "【不屈の軍人】ジャスティスハンコック",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "星",
+        "彗"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_070_jsts_Fe3jxa2V.png"
+    },
+    {
+      "name": "【猛き天空王】ぶれいずどらごん",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "王",
+        "空",
+        "天"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_080_bldg_SvA2i7cT.png"
+    },
+    {
+      "name": "【A.D.D.F.強襲部隊兵】クー・シー",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "鮫",
+        "犬",
+        "猫"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_090_kskc_Qg4v1A2G.png"
+    },
+    {
+      "name": "【くろぬりちょう】某",
+      "attr": "無",
+      "rarity": "UR",
+      "word": [
+        "黒"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_100_nngs_X9p3y1sU.png"
+    },
+    {
+      "name": "",
+      "attr": "",
+      "rarity": "UR",
+      "word": [
+        ""
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_110_tmss_Nq3ZTd1A.png"
+    },
+    {
+      "name": "【8周年ありがとう】全員集合記念パーティ",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2024_120_aniv_Nc9fGZpM.png"
+    },
+    {
+      "name": "【紅薔薇副団長】アミスター=バランディン",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "長",
+        "団",
+        "副"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_deck_card_se_2025_010_amst_Fp8N9CaX.png"
+    },
+    {
+      "name": "【ナイショの★魔法少女】ルルカ",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "../img/card/ui_game_skill_card_se_2025_020_lrca_K9rJgWcB.png"
+    },
+    {
+      "name": "【祓三姉妹次女】狐ヶ咲甘色",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "句",
+        "一"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/card/ui_game_skill_card_se_2025_030_amir_Xz8Ft4kY.png"
+    },
+    {
+      "name": "【相棒の堕天使】13 †サーティーン†",
+      "attr": "無",
+      "rarity": "UR",
+      "word": [
+        "三",
+        "十"
+      ],
+      "type": "シーズン",
+      "skill": "",
+      "coolDown": 0,
+      "activation": "-",
+      "rank": "S",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/card/ui_game_skill_card_se_2025_040_thte_L5qPs2gD.png"
+    },
+    {
+      "name": "【#コンパスフェス】ふんわり気球旅行",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "イベント",
+      "skill": "味方チーム全員のライフを 2019%回復",
+      "coolDown": 999,
+      "activation": "短",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【#コンパス】ライブアリーナ 2021",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "イベント",
+      "skill": "味方チーム全員のライフを 2021%回復",
+      "coolDown": 999,
+      "activation": "短",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【#コンパスフェス】ぶんぶん疾走旅行",
+      "attr": "木",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "イベント",
+      "skill": "味方チーム全員のライフを 2019%回復",
+      "coolDown": 999,
+      "activation": "短",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【#コンパスフェス】わくわく飛竜旅行",
+      "attr": "水",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "イベント",
+      "skill": "味方チーム全員のライフを 2022%回復",
+      "coolDown": 999,
+      "activation": "短",
+      "rank": "F",
+      "path": ""
+    },
+    {
+      "name": "【#コンパスフェス】ぷかぷか航海旅行",
+      "attr": "火",
+      "rarity": "UR",
+      "word": [
+        "癒",
+        "全"
+      ],
+      "type": "イベント",
+      "skill": "味方チーム全員のライフを 2023%回復",
+      "coolDown": 999,
+      "activation": "短",
+      "rank": "F",
+      "path": ""
+    }
+  ]
+}

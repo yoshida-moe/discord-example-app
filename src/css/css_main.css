@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'YuGothic';
+  color: #515151;
+  background-color: #e0e5ec;
+}
+
+a {
+  text-decoration: none;
+  color: #515151;
+}
+
+button {
+  color: #515151;
+}
+
+/* .wrapper {
+  display: flex;
+  flex-flow: column;
+  margin: 10px;
+  gap: 10px;
+} */
+
+input[type='radio'] {
+  display: none;
+  border-radius: 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+input[type='radio'] + label {
+  width: 60px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px;
+  background: linear-gradient(to bottom right, #a3b1c6, 1%, #e0e5ec, 99%, #fff);
+  box-shadow: -1px -1px 3px #fff, 1px 1px 3px #a3b1c6;
+}
+
+input[type='radio']:checked + label {
+  background: linear-gradient(to bottom right, #515151, 1%, #a3b1c6, 99%, #e0e5ec);
+  box-shadow: -1px -1px 3px #e0e5ec inset, 1px 1px 3px #515151 inset;
+}
+
+/* Header */
+
+nav {
+  position: sticky;
+  bottom: 0;
+  background-color: #e0e5ec;
+  box-shadow: -4px -4px 12px #fff, 4px 4px 12px #a3b1c6;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  display: inline-block;
+
+}
+
+.contents-area__filter {
+  display: flex;
+  flex-flow: column;
+  position: sticky;
+  top: 10px;
+  background-color: #e0e5ec;
+  box-shadow: -4px -4px 12px #fff, 4px 4px 12px #a3b1c6;
+  border-radius: 10px;
+  padding: 5px;
+  gap: 10px;
+}
+
+.contents-area__filter-button {
+  display: flex;
+  flex-flow: column;
+  padding: 10px;
+  gap: 10px;
+}
+
+.contents-area__filter-button div {
+  display: flex;
+  flex-flow: wrap;
+  box-shadow: -2px -2px 6px #fff inset, 2px 2px 6px #a3b1c6 inset;
+  border-radius: 10px;
+  padding: 10px;
+  gap: 10px;
+}
+
+.caret {
+  margin: auto;
+}
+
+.nav-list {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.item {
+  display: flex;
+  /* width: 350px; */
+  padding: 10px;
+  border-radius: 10px;
+  /* box-shadow: -2px -2px 6px #fff, 2px 2px 6px #a3b1c6; */
+
+  grid-template-columns: 108px 1fr;
+  grid-template-rows: repeat(5, auto);
+  gap: 10px;
+}
+
+.item-img {
+  display: flex;
+  justify-content: center;
+  width: 108px;
+  height: 128px;
+  background-size: auto 128px;
+  background-position: center;
+  border-radius: 10px;
+  box-shadow: -2px -2px 6px #fff inset, 2px 2px 6px #a3b1c6 inset;
+
+  /* background:
+    linear-gradient(135deg, transparent 15px, #e0e5ec 0) top left,
+    linear-gradient(-135deg, transparent 15px, #e0e5ec 0) top right,
+    linear-gradient(-45deg, transparent 15px, #e0e5ec 0) bottom right,
+    linear-gradient(45deg, transparent 15px, #e0e5ec 0) bottom left
+  ;
+  background-size: 50% 50%;
+  background-repeat: no-repeat; */
+}
+
+.g01::before {
+  content: '攻撃：';
+  background-repeat: no-repeat;
+  background-image: url(//s.nhn-playart.com/smartgame/spn/games/compass/official/img/hero/ttl_graph01.svg?1637726862)
+}
+
+.g02::before {
+  content: '防御：';
+  background-repeat: no-repeat;
+  background-image: url(//s.nhn-playart.com/smartgame/spn/games/compass/official/img/hero/ttl_graph02.svg?1637726862)
+}
+
+.g03::before {
+  content: '体力：';
+  background-repeat: no-repeat;
+  background-image: url(//s.nhn-playart.com/smartgame/spn/games/compass/official/img/hero/ttl_graph03.svg?1637726862)
+}
+
+.s01::before {
+  content: 'ヒーロースキル：';
+}
+
+.s02::before {
+  content: 'ヒーローアクション：';
+}
+
+.s03::before {
+  content: 'アビリティ：';
+}
+
+.p01::before {
+  content: '近距離：';
+}
+
+.p02::before {
+  content: '遠距離：';
+}
+
+.p03::before {
+  content: '周　囲：';
+}
+
+.p04::before {
+  content: '連　撃：';
+}
+
+.result {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}

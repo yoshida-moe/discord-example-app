@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "needEnergy": 1,
+      "ap": 1,
+      "cardName": "有村 麻央",
+      "title": "学園アイドルマスター",
+      "category": "キャラクター",
+      "effect": {
+        "appearance": "必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。"
+      },
+      "generatedEnergy": 2,
+      "bp": 1500,
+      "rare": "C",
+      "no": {
+        "titleNum": "UA27BT",
+        "cardNum": "GIM-1-001"
+      }
+    }
+  ]
+}

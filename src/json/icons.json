@@ -1,0 +1,1060 @@
+{
+  "items": [
+    {
+      "name": "遅",
+      "path": "../img/icons/performance_01.png"
+    },
+    {
+      "name": "並",
+      "path": "../img/icons/performance_02.png"
+    },
+    {
+      "name": "速",
+      "path": "../img/icons/performance_03.png"
+    },
+    {
+      "name": "ギルドアイコンフレーム1",
+      "path": "../img/icons/guild_01.png"
+    },
+    {
+      "name": "ギルドアイコンフレーム2",
+      "path": "../img/icons/guild_02.png"
+    },
+    {
+      "name": "ギルドアイコンフレーム3",
+      "path": "../img/icons/guild_03.png"
+    },
+    {
+      "name": "ギルドアイコンフレーム4",
+      "path": "../img/icons/guild_04.png"
+    },
+    {
+      "name": "ギルドアイコンフレーム5",
+      "path": "../img/icons/guild_05.png"
+    },
+    {
+      "name": "ブロンズデータチップ",
+      "path": "../img/icons/ui_menu_datacard00.png"
+    },
+    {
+      "name": "シルバーデータチップ",
+      "path": "../img/icons/ui_menu_datacard01.png"
+    },
+    {
+      "name": "ゴールドデータチップ",
+      "path": "../img/icons/ui_menu_datacard02.png"
+    },
+    {
+      "name": "プラチナデータチップ",
+      "path": "../img/icons/ui_menu_datacard03.png"
+    },
+    {
+      "name": "イベントチップ",
+      "path": "../img/icons/ui_menu_datacard04.png"
+    },
+    {
+      "name": "イベントチップ",
+      "path": "../img/icons/ui_menu_datacard05.png"
+    },
+    {
+      "name": "イベントチップ",
+      "path": "../img/icons/ui_menu_datacard06.png"
+    },
+    {
+      "name": "ブラックデータチップ",
+      "path": "../img/icons/ui_menu_datacard07.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_menu_datacard10.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_menu_datacard14.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_menu_datacard15.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_menu_datacard20.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_menu_datacard28.png"
+    },
+    {
+      "name": "ステリア先行チップ",
+      "path": "../img/icons/ui_menu_datacard56.png"
+    },
+    {
+      "name": "ラヴィ先行チップ",
+      "path": "../img/icons/ui_menu_datacard57.png"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0010.png",
+      "name": "ビットマネー"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0020.png",
+      "name": "カードエナジー"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0060.png",
+      "name": "プライム会員"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0070.png",
+      "name": "ヒーローチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0080.png",
+      "name": "チャットメッセージ"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0100.png",
+      "name": "ヒーローメダル"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0110.png",
+      "name": "フリーメダル"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0120.png",
+      "name": "URチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0130.png",
+      "name": "コラボ専用ヒーローチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0150.png",
+      "name": "選べるURチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0160.png",
+      "name": "先行入手チケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0170_sssp_jfa7nRCj.png",
+      "name": "シーズンメモリー"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0190.png",
+      "name": "イベントチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0230_live_K8cJjr8E.png",
+      "name": "ライアリイベコスチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0270_tckt_A3pnCY3A.png",
+      "name": "コラボチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0280_tckt_A3pnCY3A.png",
+      "name": "選べるコラボURチケット"
+    },
+    {
+      "path": "../img/icons/ui_reward_type_0300.png",
+      "name": "60連チケット"
+    },
+    {
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_reward_type_0400.png",
+      "name": "ヒーローチケット"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon031.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon032.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon033.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon034.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon037.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon038.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon039.png"
+    },
+    {
+      "path": "../img/icons/ui_pro_icon040.png"
+    },
+    {
+      "name": "2017年6月シーズン",
+      "path": "../img/icons/ui_pro_icon043.png"
+    },
+    {
+      "name": "2017年6月シーズン",
+      "path": "../img/icons/ui_pro_icon044.png"
+    },
+    {
+      "name": "2017年6月シーズン",
+      "path": "../img/icons/ui_pro_icon045.png"
+    },
+    {
+      "name": "2017年6月シーズン",
+      "path": "../img/icons/ui_pro_icon046.png"
+    },
+    {
+      "name": "2017年7月シーズン",
+      "path": "../img/icons/ui_pro_icon047.png"
+    },
+    {
+      "name": "2017年7月シーズン",
+      "path": "../img/icons/ui_pro_icon048.png"
+    },
+    {
+      "name": "2017年7月シーズン",
+      "path": "../img/icons/ui_pro_icon049.png"
+    },
+    {
+      "name": "2017年7月シーズン",
+      "path": "../img/icons/ui_pro_icon050.png"
+    },
+    {
+      "name": "2017年8月シーズン",
+      "path": "../img/icons/ui_pro_icon053.png"
+    },
+    {
+      "name": "2017年8月シーズン",
+      "path": "../img/icons/ui_pro_icon054.png"
+    },
+    {
+      "name": "2017年8月シーズン",
+      "path": "../img/icons/ui_pro_icon055.png"
+    },
+    {
+      "name": "2017年8月シーズン",
+      "path": "../img/icons/ui_pro_icon056.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon059.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon062.png"
+    },
+    {
+      "name": "2017年9月シーズン",
+      "path": "../img/icons/ui_pro_icon063.png"
+    },
+    {
+      "name": "2017年9月シーズン",
+      "path": "../img/icons/ui_pro_icon064.png"
+    },
+    {
+      "name": "2017年9月シーズン",
+      "path": "../img/icons/ui_pro_icon065.png"
+    },
+    {
+      "name": "2017年9月シーズン",
+      "path": "../img/icons/ui_pro_icon066.png"
+    },
+    {
+      "name": "2017年10月シーズン",
+      "path": "../img/icons/ui_pro_icon070.png"
+    },
+    {
+      "name": "2017年10月シーズン",
+      "path": "../img/icons/ui_pro_icon071.png"
+    },
+    {
+      "name": "2017年10月シーズン",
+      "path": "../img/icons/ui_pro_icon072.png"
+    },
+    {
+      "name": "2017年10月シーズン",
+      "path": "../img/icons/ui_pro_icon073.png"
+    },
+    {
+      "name": "2017年11月シーズン",
+      "path": "../img/icons/ui_pro_icon074.png"
+    },
+    {
+      "name": "2017年11月シーズン",
+      "path": "../img/icons/ui_pro_icon075.png"
+    },
+    {
+      "name": "2017年11月シーズン",
+      "path": "../img/icons/ui_pro_icon076.png"
+    },
+    {
+      "name": "2017年11月シーズン",
+      "path": "../img/icons/ui_pro_icon077.png"
+    },
+    {
+      "name": "2017年12月シーズン",
+      "path": "../img/icons/ui_pro_icon080.png"
+    },
+    {
+      "name": "2017年12月シーズン",
+      "path": "../img/icons/ui_pro_icon081.png"
+    },
+    {
+      "name": "2017年12月シーズン",
+      "path": "../img/icons/ui_pro_icon082.png"
+    },
+    {
+      "name": "2017年12月シーズン",
+      "path": "../img/icons/ui_pro_icon083.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon085.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon087.png"
+    },
+    {
+      "name": "2018年1月シーズン",
+      "path": "../img/icons/ui_pro_icon088.png"
+    },
+    {
+      "name": "2018年1月シーズン",
+      "path": "../img/icons/ui_pro_icon089.png"
+    },
+    {
+      "name": "2018年1月シーズン",
+      "path": "../img/icons/ui_pro_icon090.png"
+    },
+    {
+      "name": "2018年1月シーズン",
+      "path": "../img/icons/ui_pro_icon091.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon092.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon093.png"
+    },
+    {
+      "name": "2018年2月シーズン",
+      "path": "../img/icons/ui_pro_icon094.png"
+    },
+    {
+      "name": "2018年2月シーズン",
+      "path": "../img/icons/ui_pro_icon095.png"
+    },
+    {
+      "name": "2018年2月シーズン",
+      "path": "../img/icons/ui_pro_icon096.png"
+    },
+    {
+      "name": "2018年2月シーズン",
+      "path": "../img/icons/ui_pro_icon097.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon098.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon099.png"
+    },
+    {
+      "name": "2018年3月シーズン",
+      "path": "../img/icons/ui_pro_icon102.png"
+    },
+    {
+      "name": "2018年3月シーズン",
+      "path": "../img/icons/ui_pro_icon103.png"
+    },
+    {
+      "name": "2018年3月シーズン",
+      "path": "../img/icons/ui_pro_icon104.png"
+    },
+    {
+      "name": "2018年3月シーズン",
+      "path": "../img/icons/ui_pro_icon105.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon106.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon107.png"
+    },
+    {
+      "name": "2018年4月シーズン",
+      "path": "../img/icons/ui_pro_icon109.png"
+    },
+    {
+      "name": "2018年4月シーズン",
+      "path": "../img/icons/ui_pro_icon110.png"
+    },
+    {
+      "name": "2018年4月シーズン",
+      "path": "../img/icons/ui_pro_icon111.png"
+    },
+    {
+      "name": "2018年4月シーズン",
+      "path": "../img/icons/ui_pro_icon112.png"
+    },
+    {
+      "name": "2018年5月シーズン",
+      "path": "../img/icons/ui_pro_icon119.png"
+    },
+    {
+      "name": "2018年5月シーズン",
+      "path": "../img/icons/ui_pro_icon120.png"
+    },
+    {
+      "name": "2018年5月シーズン",
+      "path": "../img/icons/ui_pro_icon121.png"
+    },
+    {
+      "name": "2018年5月シーズン",
+      "path": "../img/icons/ui_pro_icon122.png"
+    },
+    {
+      "name": "2018年6月シーズン",
+      "path": "../img/icons/ui_pro_icon128.png"
+    },
+    {
+      "name": "2018年6月シーズン",
+      "path": "../img/icons/ui_pro_icon129.png"
+    },
+    {
+      "name": "2018年6月シーズン",
+      "path": "../img/icons/ui_pro_icon130.png"
+    },
+    {
+      "name": "2018年6月シーズン",
+      "path": "../img/icons/ui_pro_icon131.png"
+    },
+    {
+      "name": "2018年7月シーズン",
+      "path": "../img/icons/ui_pro_icon137.png"
+    },
+    {
+      "name": "2018年7月シーズン",
+      "path": "../img/icons/ui_pro_icon138.png"
+    },
+    {
+      "name": "2018年7月シーズン",
+      "path": "../img/icons/ui_pro_icon139.png"
+    },
+    {
+      "name": "2018年7月シーズン",
+      "path": "../img/icons/ui_pro_icon140.png"
+    },
+    {
+      "name": "2018年8月シーズン",
+      "path": "../img/icons/ui_pro_icon141.png"
+    },
+    {
+      "name": "2018年8月シーズン",
+      "path": "../img/icons/ui_pro_icon142.png"
+    },
+    {
+      "name": "2018年8月シーズン",
+      "path": "../img/icons/ui_pro_icon143.png"
+    },
+    {
+      "name": "2018年8月シーズン",
+      "path": "../img/icons/ui_pro_icon144.png"
+    },
+    {
+      "name": "2018年9月シーズン",
+      "path": "../img/icons/ui_pro_icon147.png"
+    },
+    {
+      "name": "2018年9月シーズン",
+      "path": "../img/icons/ui_pro_icon148.png"
+    },
+    {
+      "name": "2018年9月シーズン",
+      "path": "../img/icons/ui_pro_icon149.png"
+    },
+    {
+      "name": "2018年9月シーズン",
+      "path": "../img/icons/ui_pro_icon150.png"
+    },
+    {
+      "name": "2018年10月シーズン",
+      "path": "../img/icons/ui_pro_icon154.png"
+    },
+    {
+      "name": "2018年10月シーズン",
+      "path": "../img/icons/ui_pro_icon155.png"
+    },
+    {
+      "name": "2018年10月シーズン",
+      "path": "../img/icons/ui_pro_icon156.png"
+    },
+    {
+      "name": "2018年10月シーズン",
+      "path": "../img/icons/ui_pro_icon157.png"
+    },
+    {
+      "name": "2018年11月シーズン",
+      "path": "../img/icons/ui_pro_icon159.png"
+    },
+    {
+      "name": "2018年11月シーズン",
+      "path": "../img/icons/ui_pro_icon160.png"
+    },
+    {
+      "name": "2018年11月シーズン",
+      "path": "../img/icons/ui_pro_icon161.png"
+    },
+    {
+      "name": "2018年11月シーズン",
+      "path": "../img/icons/ui_pro_icon162.png"
+    },
+    {
+      "name": "2018年12月シーズン",
+      "path": "../img/icons/ui_pro_icon163.png"
+    },
+    {
+      "name": "2018年12月シーズン",
+      "path": "../img/icons/ui_pro_icon164.png"
+    },
+    {
+      "name": "2018年12月シーズン",
+      "path": "../img/icons/ui_pro_icon165.png"
+    },
+    {
+      "name": "2018年12月シーズン",
+      "path": "../img/icons/ui_pro_icon166.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon168.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon169.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon170.png"
+    },
+    {
+      "name": "2019年1月シーズン",
+      "path": "../img/icons/ui_pro_icon171.png"
+    },
+    {
+      "name": "2019年1月シーズン",
+      "path": "../img/icons/ui_pro_icon172.png"
+    },
+    {
+      "name": "2019年1月シーズン",
+      "path": "../img/icons/ui_pro_icon173.png"
+    },
+    {
+      "name": "2019年1月シーズン",
+      "path": "../img/icons/ui_pro_icon174.png"
+    },
+    {
+      "name": "2019年2月シーズン",
+      "path": "../img/icons/ui_pro_icon175.png"
+    },
+    {
+      "name": "2019年2月シーズン",
+      "path": "../img/icons/ui_pro_icon176.png"
+    },
+    {
+      "name": "2019年2月シーズン",
+      "path": "../img/icons/ui_pro_icon177.png"
+    },
+    {
+      "name": "2019年2月シーズン",
+      "path": "../img/icons/ui_pro_icon178.png"
+    },
+    {
+      "name": "2019年3月シーズン",
+      "path": "../img/icons/ui_pro_icon183.png"
+    },
+    {
+      "name": "2019年3月シーズン",
+      "path": "../img/icons/ui_pro_icon184.png"
+    },
+    {
+      "name": "2019年3月シーズン",
+      "path": "../img/icons/ui_pro_icon185.png"
+    },
+    {
+      "name": "2019年3月シーズン",
+      "path": "../img/icons/ui_pro_icon186.png"
+    },
+    {
+      "name": "2019年4月シーズン",
+      "path": "../img/icons/ui_pro_icon195.png"
+    },
+    {
+      "name": "2019年4月シーズン",
+      "path": "../img/icons/ui_pro_icon196.png"
+    },
+    {
+      "name": "2019年4月シーズン",
+      "path": "../img/icons/ui_pro_icon197.png"
+    },
+    {
+      "name": "2019年4月シーズン",
+      "path": "../img/icons/ui_pro_icon198.png"
+    },
+    {
+      "name": "2019年5月シーズン",
+      "path": "../img/icons/ui_pro_icon199.png"
+    },
+    {
+      "name": "2019年5月シーズン",
+      "path": "../img/icons/ui_pro_icon200.png"
+    },
+    {
+      "name": "2019年5月シーズン",
+      "path": "../img/icons/ui_pro_icon201.png"
+    },
+    {
+      "name": "2019年5月シーズン",
+      "path": "../img/icons/ui_pro_icon202.png"
+    },
+    {
+      "name": "2019年6月シーズン",
+      "path": "../img/icons/ui_pro_icon206.png"
+    },
+    {
+      "name": "2019年6月シーズン",
+      "path": "../img/icons/ui_pro_icon207.png"
+    },
+    {
+      "name": "2019年6月シーズン",
+      "path": "../img/icons/ui_pro_icon208.png"
+    },
+    {
+      "name": "2019年6月シーズン",
+      "path": "../img/icons/ui_pro_icon209.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon417.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon418.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon419.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon420.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon421.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon422.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon423.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon424.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon425.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon426.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon427.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon449.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon450.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon451.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon452.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon453.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon458.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon503.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon504.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon505.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon506.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon507.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon508.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon509.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon510.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon511.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon512.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon513.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon514.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon516.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon517.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon518.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon519.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon545.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon589.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon590.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon591.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon592.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon593.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon594.png"
+    },
+    {
+      "name": "STARバトル 7月シーズン大会優勝",
+      "path": "../img/icons/ui_pro_icon595.png"
+    },
+    {
+      "name": "2024年5月シーズン",
+      "path": "../img/icons/ui_pro_icon626_lcan_Je7V1WgX.png"
+    },
+    {
+      "name": "2024年5月シーズン",
+      "path": "../img/icons/ui_pro_icon627_lcan_Je7V1WgX.png"
+    },
+    {
+      "name": "2024年5月シーズン",
+      "path": "../img/icons/ui_pro_icon628_lcan_Je7V1WgX.png"
+    },
+    {
+      "name": "2024年5月シーズン",
+      "path": "../img/icons/ui_pro_icon629_lcan_Je7V1WgX.png"
+    },
+    {
+      "name": "2024年6月シーズン",
+      "path": "../img/icons/ui_pro_icon633_pass_U7h5uPfB.png"
+    },
+    {
+      "name": "2024年6月シーズン",
+      "path": "../img/icons/ui_pro_icon634_pass_U7h5uPfB.png"
+    },
+    {
+      "name": "2024年6月シーズン",
+      "path": "../img/icons/ui_pro_icon635_pass_U7h5uPfB.png"
+    },
+    {
+      "name": "2024年6月シーズン",
+      "path": "../img/icons/ui_pro_icon636_pass_U7h5uPfB.png"
+    },
+    {
+      "name": "STARバトル 9月シーズン大会優勝",
+      "path": "../img/icons/ui_pro_icon638.png"
+    },
+    {
+      "name": "STARバトル 10月シーズン大会優勝",
+      "path": "../img/icons/ui_pro_icon639.png"
+    },
+    {
+      "name": "2024年7月シーズン",
+      "path": "../img/icons/ui_pro_icon643_jsts_Fe3jxa2V.png"
+    },
+    {
+      "name": "2024年7月シーズン",
+      "path": "../img/icons/ui_pro_icon644_jsts_Fe3jxa2V.png"
+    },
+    {
+      "name": "2024年7月シーズン",
+      "path": "../img/icons/ui_pro_icon645_jsts_Fe3jxa2V.png"
+    },
+    {
+      "name": "2024年7月シーズン",
+      "path": "../img/icons/ui_pro_icon646_jsts_Fe3jxa2V.png"
+    },
+    {
+      "name": "2024年8月シーズン",
+      "path": "../img/icons/ui_pro_icon649_bldg_SvA2i7cT.png"
+    },
+    {
+      "name": "2024年8月シーズン",
+      "path": "../img/icons/ui_pro_icon650_bldg_SvA2i7cT.png"
+    },
+    {
+      "name": "2024年8月シーズン",
+      "path": "../img/icons/ui_pro_icon651_bldg_SvA2i7cT.png"
+    },
+    {
+      "name": "2024年8月シーズン",
+      "path": "../img/icons/ui_pro_icon652_bldg_SvA2i7cT.png"
+    },
+    {
+      "name": "2024年9月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon654_kskc_Qg4v1A2G.png"
+    },
+    {
+      "name": "2024年9月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon655_kskc_Qg4v1A2G.png"
+    },
+    {
+      "name": "2024年9月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon656_kskc_Qg4v1A2G.png"
+    },
+    {
+      "name": "2024年9月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon657_kskc_Qg4v1A2G.png"
+    },
+    {
+      "name": "2024年10月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon662_nngs_X9p3y1sU.png"
+    },
+    {
+      "name": "2024年10月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon663_nngs_X9p3y1sU.png"
+    },
+    {
+      "name": "2024年10月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon664_nngs_X9p3y1sU.png"
+    },
+    {
+      "name": "2024年10月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon665_nngs_X9p3y1sU.png"
+    },
+    {
+      "name": "メイドインアビス コラボアイコン",
+      "path": "../img/icons/ui_pro_icon659_mina_g4AuHs4.png"
+    },
+    {
+      "name": "メイドインアビス プロフィールアイコン",
+      "path": "../img/icons/ui_pro_icon660_mina_g4AuHs4.png"
+    },
+    {
+      "name": "2024年11月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon666_tmss_Nq3ZTd1A.png"
+    },
+    {
+      "name": "2024年11月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon667_tmss_Nq3ZTd1A.png"
+    },
+    {
+      "name": "2024年11月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon668_tmss_Nq3ZTd1A.png"
+    },
+    {
+      "name": "2024年11月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon669_tmss_Nq3ZTd1A.png"
+    },
+    {
+      "name": "2024年12月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon672_aniv_Nc9fGZpM.png"
+    },
+    {
+      "name": "2024年12月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon673_aniv_Nc9fGZpM.png"
+    },
+    {
+      "name": "2024年12月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon674_aniv_Nc9fGZpM.png"
+    },
+    {
+      "name": "2024年12月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon675_aniv_Nc9fGZpM.png"
+    },
+    {
+      "name": "STARバトル 1月シーズン大会 優勝",
+      "path": "../img/icons/ui_pro_icon676.png"
+    },
+    {
+      "name": "STARバトル 2月シーズン大会 優勝",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon677.png"
+    },
+    {
+      "name": "STARバトル 3月シーズン大会 優勝",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon678.png"
+    },
+    {
+      "name": "STARバトル 4月シーズン大会 優勝",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon679.png"
+    },
+    {
+      "name": "STARバトル 5月シーズン大会 優勝",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon680.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon686_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon687_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon688_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "",
+      "path": "../img/icons/ui_pro_icon689_hntr_s4P2xz4s.png"
+    },
+    {
+      "name": "2025年1月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon690_amst_Fp8N9CaX.png"
+    },
+    {
+      "name": "2025年1月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon691_amst_Fp8N9CaX.png"
+    },
+    {
+      "name": "2025年1月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon692_amst_Fp8N9CaX.png"
+    },
+    {
+      "name": "2025年1月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon693_amst_Fp8N9CaX.png"
+    },
+    {
+      "name": "2025年2月シーズン金アイコン",
+      "path": "../img/icons/ui_pro_icon695_lrca_K9rJgWcB.png"
+    },
+    {
+      "name": "2025年2月シーズン銀アイコン",
+      "path": "../img/icons/ui_pro_icon696_lrca_K9rJgWcB.png"
+    },
+    {
+      "name": "2025年2月シーズン銅アイコン",
+      "path": "../img/icons/ui_pro_icon697_lrca_K9rJgWcB.png"
+    },
+    {
+      "name": "2025年2月シーズン参加賞",
+      "path": "../img/icons/ui_pro_icon698_lrca_K9rJgWcB.png"
+    },
+    {
+      "name": "",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon704_taru_K7q2SH7K.png"
+    },
+    {
+      "name": "",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/banner_3047_4_taru_K7q2SH7K.png"
+    },
+    {
+      "name": "2025年3月シーズン金アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon712_amir_Xz8Ft4kY.png"
+    },
+    {
+      "name": "2025年3月シーズン銀アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon713_amir_Xz8Ft4kY.png"
+    },
+    {
+      "name": "2025年3月シーズン銅アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon714_amir_Xz8Ft4kY.png"
+    },
+    {
+      "name": "2025年3月シーズン参加賞",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon715_amir_Xz8Ft4kY.png"
+    },
+    {
+      "name": "2025年4月シーズン金アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon717_thte_L5qPs2gD.png"
+    },
+    {
+      "name": "2025年4月シーズン銀アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon718_thte_L5qPs2gD.png"
+    },
+    {
+      "name": "2025年4月シーズン銅アイコン",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon719_thte_L5qPs2gD.png"
+    },
+    {
+      "name": "2025年4月シーズン参加賞",
+      "path": "https://cdn-asset.compass-game.jp/contents/web/img/icons/ui_pro_icon720_thte_L5qPs2gD.png"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=350,user-scalable=no">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>ガチャ</title>
+  <link id="css1" rel="stylesheet" type="text/css" href="../css/css_default_v16.css" media="all" />
+  <link id="css2" rel="stylesheet" type="text/css" href="../css/css_image_v2.css" media="all" />
+  <link id="css3" rel="stylesheet" type="text/css" href="../css/css_input_v5.css" media="all" />
+</head>
+
+<body>
+  <div class="infoBody">
+    <div class="left">
+      <div class="tab-content">
+        <input type="radio" id="tab1" name="tab" checked><label for="tab1">カード</label>
+        <input type="radio" id="tab2" name="tab"><label for="tab2">ヒーロー</label>
+        <div class="tab-box">
+          <div id="tabBody_1">
+            <div class="listNote">
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc1290_1_miku_M2f5dh1C.jpg" width="320"><br />
+                </div>
+                <div class="center">
+                  <div class="button-wrap">
+                    <div class="button-content stripe">
+                      <div class="text" onclick="onClickCollaboCardGachaContinuous()">60枚連続</div>
+                    </div>
+                  </div>
+                  <div class="button-wrap">
+                    <div class="button-content stripe">
+                      <div class="text" onclick="onClickCollaboCardGachaSingle()">シングル</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc1052_1_chng_V2D3Bv2V.jpg" width="320"><br />
+                </div>
+                <div class="center">
+                  <div class="button-wrap">
+                    <div class="button-content stripe">
+                      <div class="text" onclick="onClickCardGachaContinuous()">60枚連続</div>
+                    </div>
+                  </div>
+                  <div class="button-wrap">
+                    <div class="button-content stripe">
+                      <div class="text" onclick="onClickCardGachaSingle()">シングル</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc0534_1_tckt_A92BXpyZ.jpg" width="320"><br />
+                </div>
+                <div class="left">
+                  <div class="subbutton-wrap">
+                    <div class="textarea" style="color: #fff; background: #bbb;">
+                      チケットを使用して<br>
+                      水属性UR確定！
+                    </div>
+                    <div class="button-wrap">
+                      <div class="button-content stripe">
+                        <div class="text" onclick="onClickWaterURTicketCardGacha()">URチケット</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc0535_1_tckt_A92BXpyZ.jpg" width="320"><br />
+                </div>
+                <div class="left">
+                  <div class="subbutton-wrap">
+                    <div class="textarea" style="color: #fff; background: #bbb;">
+                      チケットを使用して<br>
+                      火属性UR確定！
+                    </div>
+                    <div class="button-wrap">
+                      <div class="button-content stripe">
+                        <div class="text" onclick="onClickFireURTicketCardGacha()">URチケット</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc0536_1_tckt_A92BXpyZ.jpg" width="320"><br />
+                </div>
+                <div class="left">
+                  <div class="subbutton-wrap">
+                    <div class="textarea" style="color: #fff; background: #bbb;">
+                      チケットを使用して<br>
+                      木属性UR確定！
+                    </div>
+                    <div class="button-wrap">
+                      <div class="button-content stripe">
+                        <div class="text" onclick="onClickTreeURTicketCardGacha()">URチケット</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="tabBody_2">
+            <div class="listNote">
+              <div class="infoBody">
+                <div class="center">
+                  <img src="../img/banner_Gc1222_1_krps_R2gDr2wY.jpg" width="280">
+                </div>
+                <div class="center">
+                  <div class="button-wrap">
+                    <div class="button-content stripe">
+                      <div class="text">ヒーローガチャ</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <dialog>
+      <div class="listStrong">
+        <div id="result-title"></div>
+        <div id="result-content"></div>
+        <div class="center">
+          <div class="button-wrap">
+            <div class="button-content nonrmal">
+              <div class="text" onclick="closeDialog()">戻る</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </dialog>
+
+  </div>
+  <script type="module" src="../js/gacha.js"></script>
+  <!-- <script src="../js/gacha.js"></script> -->
+</body>
+
+</html>
