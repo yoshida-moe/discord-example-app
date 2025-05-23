@@ -2,10 +2,53 @@ import 'dotenv/config';
 import { getRPSChoices } from './game.js';
 import { capitalize, InstallGlobalCommands } from './utils.js';
 
+export const CommandId = {
+  Test: 'test',
+  Battle: 'battle',
+}
+
+const tmp = [
+  {
+    mainId: 'test',
+  },
+  {
+    mainId: 'battle',
+    optionName: 'object',
+    customId: []
+  },
+  {
+    mainId: 'jinrou',
+    option: [
+      {
+        id: 'start',
+        option: ['base'],
+      },
+    ]
+  },
+];
+
+export const CustomBattleId = {
+  Join: "join",
+  Char: "char",
+  Card: "card",
+  Jinrou: "jinrou",
+  Show: "show",
+  Start: "start",
+  Watch: "watch",
+  Switch: "switch",
+  Vote: "vote",
+  Confirmation: "confirmation",
+};
+
 // Get the game choices from game.js
 function createCommandChoices() {
   const choices = getRPSChoices();
-  const commandChoices = [];
+  const commandChoices = [
+    { name: 'バトルアリーナ', value: 'arena' },
+    { name: 'フリーバトル', value: 'free' },
+    { name: 'カスタムバトル', value: 'custom' },
+    { name: 'コンパス人狼', value: 'jinrou' },
+  ];
 
   for (let choice of choices) {
     commandChoices.push({
@@ -19,15 +62,15 @@ function createCommandChoices() {
 
 // Simple test command
 const TEST_COMMAND = {
-  name: 'test',
+  name: CommandId.Test,
   description: 'Basic command',
   type: 1,
 };
 
 // Command containing options
-const CHALLENGE_COMMAND = {
-  name: 'challenge',
-  description: 'Challenge to a match of rock paper scissors',
+const BATTLE_COMMAND = {
+  name: CommandId.Battle,
+  description: 'バトル',
   options: [
     {
       type: 3,
@@ -40,6 +83,9 @@ const CHALLENGE_COMMAND = {
   type: 1,
 };
 
-const ALL_COMMANDS = [TEST_COMMAND, CHALLENGE_COMMAND];
+const ALL_COMMANDS = [
+  TEST_COMMAND,
+  BATTLE_COMMAND,
+];
 
 InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
