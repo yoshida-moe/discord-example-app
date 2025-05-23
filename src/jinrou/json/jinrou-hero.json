@@ -4,271 +4,211 @@
       "id": "01",
       "name": "イグニス＝ウィル＝ウィスプ",
       "detail": "誰か1人の役職カードを見ることができる。見たカードを公開（表示）することはできない。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "02",
       "name": "魔法少女 リリカ",
       "detail": "プレイヤー1人を指名する。指名されたプレイヤーは投票権が2倍になる。\n（その他カード効果との併用も可）",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "03",
       "name": "ピエール77世",
       "detail": "このカードを持つプレイヤーは食べ物の名前しか発言できない。\n（違反した場合はペナルティとして投票権が消滅する。）",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "04",
       "name": "マリア＝S＝レオンブルク",
       "detail": "占い師・怪盗の効果実行先を自身に固定する。\n自身の役職が占い師や怪盗の場合は自由に行動可能となる。",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "05",
       "name": "アダム＝ユーリエフ",
       "detail": "プレイヤー1人を凍らせる。凍った人は夜時間全ての行動ができなくなる。",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "06",
       "name": "魔法少女 ルルカ",
       "detail": "リリカが通報された際、ルルカの独断でもう1人追加で通報する事ができる。",
-      "triggerItem": {
-        "timing": "投票後",
-        "isForced": true
-      }
+      "timing": "投票後",
+      "activationConditions": "強制"
     },
     {
       "id": "07",
       "name": "ジャスティス ハンコック",
       "detail": "自身へ投票してきたプレイヤーを選択し投票を無効化できる。\n（ヒーロー効果を含むすべてを無効化）",
-      "triggerItem": {
-        "timing": "投票後",
-        "isForced": true
-      }
+      "timing": "投票後",
+      "activationConditions": "強制"
     },
     {
       "id": "08",
       "name": "メグメグ",
       "detail": "2票投票できる。投票は同時に行うが、まとめて1人に投票も別々の人に投票することも可能。",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "09",
       "name": "桜華 忠臣",
       "detail": "全員と一斉じゃんけんを行う。忠臣に負けたプレイヤーの投票権が剥奪される。",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": true
-      }
+      "timing": "投票前",
+      "activationConditions": "矯正"
     },
     {
       "id": "10",
       "name": "零夜",
       "detail": "中央の役職カードを1枚見ることができる。見たカードを公開（表示）することはできない。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "11",
       "name": "イスタカ",
       "detail": "指定したプレイヤーへ投票前に1票の事前投票ができる。\n投票時も通常通り投票できる。\n(投票権の剥奪効果を受け付けない、投票時は事前投票と違うプレイヤーへ投票することも可。)",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "12",
       "name": "ジャンヌ ダルク",
       "detail": "プレイヤー1人の投票カウントをマイナス2の状態にできる。ただし、自身の投票権は剥奪される。",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "13",
       "name": "ニコラ テスラ",
       "detail": "全プレイヤーの未使用ヒーローカードを回収する。\n回収したカードはランダムで再配布する。\n（本カードは公開済みのステータスとなるため交換の対象とはならない。）",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "14",
       "name": "輝龍院 きらら",
       "detail": "ゲーム準備・夜時間・昼時間の役職・カード効果対象にならない。",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "15",
       "name": "糸廻 輪廻",
       "detail": "未使用ヒーローカードに罠を設置、罠が設置されたカード効果を使用した場合 使用者に＋1票とする。",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": false
-      }
+      "timing": "夜時間前",
+      "activationConditions": "任意"
     },
     {
       "id": "16",
       "name": "13†サーティーン†",
       "detail": "使用者以外は目を伏せたまま投票しようと思っている人を指差しをする。\n投票先を偽ることはできない。\n（投票も同じ人に入れる）",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "17",
       "name": "Voidoll",
       "detail": "強制効果を含む全ての他プレイヤーのカード効果を無効化する。\n（使用条件：他プレイヤーがカードを公開したタイミング）",
-      "triggerItem": {
-        "timing": "いつでも",
-        "isForced": false
-      }
+      "timing": "いつでも",
+      "activationConditions": "任意"
     },
     {
       "id": "18",
       "name": "Bugdoll",
       "detail": "プレイヤーに配布されていないヒーローカードからランダムで１枚再取得する。\n入手したカードは発動までは非公開。\n（取得しても使用できないカード：ピエール、ポロロッチョ）",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "19",
       "name": "グスタフ ハイドリヒ",
       "detail": "両隣のプレイヤー（生存者）へ２票ずつ与える。\n自身の投票権は消滅する。",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "20",
       "name": "ヴィーナス ポロロッチョ",
       "detail": "ゲーム終了までポロロッチョの口調でゲーム参加する。\n（違反した場合はその日の投票権が消滅する。）",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "21",
       "name": "双挽 乃保",
       "detail": "自身が通報された際、\n左右どちらかのプレイヤー1人を指定し道連れにする。",
-      "triggerItem": {
-        "timing": "投票後",
-        "isForced": true
-      }
+      "timing": "投票後",
+      "activationConditions": "強制"
     },
     {
       "id": "22",
       "name": "ゲームバズーカガール",
       "detail": "他プレイヤー1人を指名し、\n投票権剥奪/これ以降の投票対象から除外する。",
-      "triggerItem": {
-        "timing": "投票前",
-        "isForced": false
-      }
+      "timing": "投票前",
+      "activationConditions": "任意"
     },
     {
       "id": "23",
       "name": "アル・ダハブ=アルカティア",
       "detail": "他プレイヤー1人指名し、\n現時点で指名したプレイヤーにかかっている全ての効果を盗む。\n※指定先が投票を受けている場合はその投票も自身が引き継ぐ",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "24",
       "name": "ヴィオレッタ ノワール",
       "detail": "他プレイヤー1人指名し、\n昼時間中のヒーローカードを使用不可にする。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "25",
       "name": "トマス",
       "detail": "他プレイヤー１人を指名しトランクをつける。\nトランクがついているプレイヤーが投票された場合、1票分肩代わりする。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "26",
       "name": "HM-WA100 ニーズヘッグ",
       "detail": "全員とじゃんけん。\n負けたプレイヤーは1票投票される。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "27",
       "name": "ラヴィ・シュシュマルシュ",
       "detail": "他プレイヤー１人を指名しじゃんけん。\n敗者が勝者に役職カードを見せる。",
-      "triggerItem": {
-        "timing": "昼時間",
-        "isForced": false
-      }
+      "timing": "昼時間",
+      "activationConditions": "任意"
     },
     {
       "id": "28",
       "name": "某 <なにがし>",
       "detail": "議論開始からｎ分間、某とその隣にいるプレイヤー以外は目を開けることができない。\n※他のヒーローカード発動時も目を開けることができない。",
-      "triggerItem": {
-        "timing": "昼時間前",
-        "isForced": true
-      }
+      "timing": "昼時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "29",
       "name": "ソーン＝ユーリエフ",
       "detail": "両隣のプレイヤーは夜時間中【人狼】の時間に顔をあげることができなくなる。\n⇒仲間の人狼の確認ができない",
-      "triggerItem": {
-        "timing": "夜時間前",
-        "isForced": true
-      }
+      "timing": "夜時間前",
+      "activationConditions": "強制"
     },
     {
       "id": "30",
       "name": "十文字 アタリ",
       "detail": "一度だけじゃんけんに必ず勝てる。\n※何を出しても勝ち判定になる\n※最多得票者が複数いる場合のじゃんけんでも使用可能\n(使用条件:じゃんけんが行われる)",
-      "triggerItem": {
-        "timing": "いつでも",
-        "isForced": false
-      }
+      "timing": "いつでも",
+      "activationConditions": "任意"
     }
   ]
 }
