@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "id": "1378061718583775312",
+      "players": [
+        {
+          "id": "404242095814213634",
+          "name": "hazuki0822",
+          "roleCard": {
+            "id": "03",
+            "used": false,
+            "isTrap": false
+          },
+          "heroCards": [
+            {
+              "id": "25",
+              "used": false
+            }
+          ],
+          "votingRights": 1,
+          "voted": [],
+          "effect": {
+            "isIce": false,
+            "isSilent": false,
+            "isTrap": false,
+            "trunk": "",
+            "isWinRPS": false,
+            "isMinusVotingCount": false
+          }
+        }
+      ],
+      "roleDeck": 1,
+      "heroDeck": [],
+      "day": 1,
+      "seerOptions": [],
+      "werewolfOptions": [],
+      "thiefOptions": [],
+      "voteOptions": []
+    },
+    {
+      "id": "1378067487974883420",
+      "players": [
+        {
+          "id": "404242095814213634",
+          "name": "hazuki0822",
+          "roleCard": {
+            "id": "02",
+            "used": true,
+            "isTrap": false
+          },
+          "heroCards": [
+            {
+              "id": "24",
+              "used": false
+            }
+          ],
+          "votingRights": 1,
+          "voted": [],
+          "effect": {
+            "isIce": false,
+            "isSilent": false,
+            "isTrap": false,
+            "trunk": "",
+            "isWinRPS": false,
+            "isMinusVotingCount": false
+          }
+        }
+      ],
+      "roleDeck": 1,
+      "heroDeck": [],
+      "day": 1,
+      "seerOptions": [],
+      "werewolfOptions": [],
+      "thiefOptions": [],
+      "voteOptions": []
+    },
+    {
+      "id": "1378075998762831902",
+      "players": [
+        {
+          "id": "404242095814213634",
+          "name": "hazuki0822",
+          "roleCard": {
+            "id": "02",
+            "used": false,
+            "isTrap": false
+          },
+          "heroCards": [
+            {
+              "id": "27",
+              "used": false
+            }
+          ],
+          "votingRights": 1,
+          "voted": [],
+          "effect": {
+            "isIce": false,
+            "isSilent": false,
+            "isTrap": false,
+            "trunk": "",
+            "isWinRPS": false,
+            "isMinusVotingCount": false
+          }
+        }
+      ],
+      "roleDeck": 1,
+      "heroDeck": [],
+      "day": 1,
+      "seerOptions": [],
+      "werewolfOptions": [],
+      "thiefOptions": [],
+      "voteOptions": []
+    },
+    {
+      "id": "1378076186441416886",
+      "players": [
+        {
+          "id": "404242095814213634",
+          "name": "hazuki0822",
+          "roleCard": {
+            "id": "02",
+            "used": false,
+            "isTrap": false
+          },
+          "heroCards": [
+            {
+              "id": "13",
+              "used": false
+            }
+          ],
+          "votingRights": 1,
+          "voted": [],
+          "effect": {
+            "isIce": false,
+            "isSilent": false,
+            "isTrap": false,
+            "trunk": "",
+            "isWinRPS": false,
+            "isMinusVotingCount": false
+          }
+        }
+      ],
+      "roleDeck": 1,
+      "heroDeck": [],
+      "day": 1,
+      "seerOptions": [],
+      "werewolfOptions": [],
+      "thiefOptions": [],
+      "voteOptions": []
+    }
+  ]
+}

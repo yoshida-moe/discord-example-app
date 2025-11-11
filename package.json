@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node app.js",
     "register": "node commands.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon --watch src --exec ts-node src/app.ts"
   },
   "author": "Shay DeWael",
   "license": "MIT",
